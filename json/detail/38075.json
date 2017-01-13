@@ -1,0 +1,92 @@
+{
+    "id": 38075,
+    "title": "水果乳酪雪條",
+    "description": "誰說雪條只能高熱量！教你做養顏又不發胖的健康雪條！",
+    "detailsUrl": null,
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160621/08d4587b-8f5d-46d8-b6f5-4da1498534e0",
+    "clickCount": 44225,
+    "shareCount": 0,
+    "maketime": "1.5小時",
+    "releaseDate": "2016-06-21 00:00:00.0",
+    "ingredientImageUrl": "http://pic.daydaycook.com/production/images/20160621/cd13579d-1112-4c97-a1f5-90668c63b37d",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "蜜糖 ",
+            "cnt": "4",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "奇異果",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "覆盆子",
+            "cnt": "22",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "香蕉",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "藍莓",
+            "cnt": "100",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "將希臘乳酪瑚平均分成三份，放入攪拌碗；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160621/50b20c30-356c-48f6-9e83-12a19842cb7f",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "將香蕉及奇異果切成粒；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160621/2318bd4b-5c05-42bd-8239-370abcc0c728",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "將一半蜜糖、香蕉粒及奇異果粒放入其中一個希臘乳酪拌勻，倒入模具；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160621/b20bb295-48b6-45e8-89ec-1bc864d2bff0",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "將餘下蜜糖、紅桑莓及藍莓放入另外一個希臘乳酪拌勻，倒入模具；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160621/e79326c9-85d6-44aa-81bf-6559714b96a9",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "將鮮橙果醬及最後一個希臘乳酪拌勻。倒入模具，插入雪條棍，放入冰箱雪最少6小時；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160621/637e2014-3201-4fa9-8d4f-c4d64d973486",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "將定型後雪條脫模，表面沾上巧克力及3種不同配料即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160621/71a320fa-52d6-4795-b371-eaa2790aae59",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=38075&languageId=2&mainland=2&ver=2&regionCode=156"
+}

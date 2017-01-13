@@ -1,0 +1,138 @@
+{
+    "id": 38818,
+    "title": "海南雞翼飯 ",
+    "description": "海南雞飯是一道新加坡的國菜。主要食材是雞肉和大米，主要烹飪工藝是燙煮。海南人會以白切雞的做法，同時配以雞油和浸雞水烹煮的米飯，所以在海南島俗稱為文昌雞飯。",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160826/4b0b433c-f182-43e2-85f0-654c2d84b32c",
+    "indexUrl": "",
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160826/2b88d127-e70c-4cc2-9b4f-b55b1ef11000",
+    "clickCount": 20481,
+    "shareCount": 0,
+    "maketime": "1小時",
+    "releaseDate": "2016-08-26 00:00:00.0",
+    "ingredientImageUrl": "http://pic.daydaycook.com/production/images/20160826/d91d0d9e-6cb2-4404-8aa3-6e8e65bdf322",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "雞湯",
+            "cnt": "250",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "米",
+            "cnt": "200",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞翼",
+            "cnt": "8",
+            "unit": "隻",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蔥段",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅蔥頭",
+            "cnt": "8",
+            "unit": "粒",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "班蘭葉",
+            "cnt": "2",
+            "unit": "塊",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "香茅",
+            "cnt": "2",
+            "unit": "小段",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "泰式黑醬油",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "薑片",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "煮滾一鍋鹽水，加入蔥段、薑片及雞翼；水滾後轉小火，將雞翼浸熟，放涼備用；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160826/d9054bcf-92c6-4a16-8b81-524f7b8c6a44",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "將紅蔥頭切碎；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160826/6ec39a8c-1a60-4673-a23f-b80b73a59205",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "中火燒熱鍋，加油炒香紅蔥頭；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160826/01fcc7cf-b532-47b7-a87e-e5a16a44cc59",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "加入白米炒勻；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160826/777c5678-6489-49f8-8267-8b2a6031dc9e",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "加入雞湯及少許浸雞鹽水；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160826/4ecb9319-3223-4504-a23b-a231fe56ce3d",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "將香茅拍扁；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160826/4f200141-085c-4c9e-af8f-c91a7bfe6fbc",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "將香茅、班蘭葉加入米飯；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160826/7bad3b63-8b0e-4735-be8e-8d3d37f6f918",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "蓋上蓋煮至飯熟透；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160826/0130c2ce-8d0a-48a3-b6f1-f68b35200c24",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "淋上泰式黑醬油拌食。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160826/883c929e-f465-41c9-85c8-8292bd9a51b5",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=38818&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=38818&languageId=2&mainland=2&ver=2&regionCode=156"
+}

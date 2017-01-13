@@ -1,0 +1,199 @@
+{
+    "id": 1367,
+    "title": "乾鍋茶山菌",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1367_1701.jpg",
+    "clickCount": 428,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2013-03-04 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "鹽 ",
+            "cnt": "5",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "胡椒粉",
+            "cnt": "4",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "油",
+            "cnt": "1",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞粉",
+            "cnt": "",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅椒",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "高湯",
+            "cnt": "100",
+            "unit": "ml",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "豆干",
+            "cnt": "5",
+            "unit": "塊",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "香蔥",
+            "cnt": "10",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅油",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "乾茶山菌",
+            "cnt": "60",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5733_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "將茶樹菇在水中泡20分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5733_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "準備材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5734_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "準備材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5734_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "準備材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5735_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "準備材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5735_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "豆腐和茶樹菇分別出水2分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5737_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "豆腐和茶樹菇分別出水2分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5737_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "加入豆腐翻炒2分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5738_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "之後加入茶樹菇再炒3分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5738_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "倒入雞湯",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5739_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 12,
+            "content": "瀝幹備用",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5739_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 13,
+            "content": "加入適量辣椒油",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5740_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 14,
+            "content": "加入炒好的豆腐和茶樹菇快速翻炒",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5740_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 15,
+            "content": "之後加入芝麻油混合均勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5741_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 16,
+            "content": "加入紅綠尖椒，蔥花和調味料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5741_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 17,
+            "content": "裝盤",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5742_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 18,
+            "content": "即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5742_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1367&languageId=2&mainland=2&ver=2&regionCode=156"
+}

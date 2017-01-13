@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="../css/recipes_list.css"/>
+	</head>
+	<body>
+		<header>
+			<h2>食谱分类</h2>
+			<a href="javascript:history.go(-1);" class="iconfont">&#xe647</a>
+		</header>
+		<div class="subnav">
+			<ul>
+				<li class="active">
+					<i class="iconfont">&#xe60e</i>
+					<span>热门</span>
+				</li>
+				<li>
+					<i class="iconfont">&#xe65e</i>
+					<span>菜式</span>
+				</li>
+				<li>
+					<i class="iconfont">&#xe727</i>
+					<span>场景</span>
+				</li>
+				<li>
+					<i class="iconfont">&#xe6f3</i>
+					<span>食材</span>
+				</li>
+				<li>
+					<i class="iconfont">&#xe84c</i>
+					<span>菜系</span>
+				</li>
+				<li>
+					<i class="iconfont">&#xe61d</i>
+					<span>烘焙</span>
+				</li>
+			</ul>
+		</div>
+		<section>
+			<div id="wrapper">
+				<!-- scroller 滚动区域-->
+				<div id="scroller">
+					<div class="hot">
+						<article>热门</article>
+						<ul class="list">
+						</ul>
+					</div>
+					<div class="hot">
+						<article>菜式</article>
+						<ul class="list">
+							
+						</ul>
+					</div>
+					<div class="hot">
+						<article>场景</article>
+						<ul class="list">
+							
+						</ul>
+					</div>
+					<div class="hot">
+						<article>食材</article>
+						<ul class="list">
+							
+						</ul>
+					</div>
+					<div class="hot">
+						<article>菜系</article>
+						<ul class="list">
+							
+						</ul>
+					</div>
+					<div class="hot">
+						<article>烘焙</article>
+						<ul class="list">
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+	</body>
+	<script src="../src/js/sea.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		seajs.use(["../js/recipes_list"],function(app){
+				// app =={init:P._init}
+				app.init();
+			})
+	</script>
+</html>

@@ -1,0 +1,101 @@
+{
+    "id": 37984,
+    "title": "經典台灣麻油雞",
+    "description": "在台灣做月子必吃美食之一～今天用紅標米酒以及一些簡單的材料就能讓你輕輕鬆鬆做成一道麻油雞。\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160612/dc852e40-1313-4156-821a-cd981bcc91f8",
+    "clickCount": 43982,
+    "shareCount": 0,
+    "maketime": "1小時",
+    "releaseDate": "2016-05-25 00:00:00.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "白芝麻",
+            "cnt": "1",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "小蔥 ",
+            "cnt": "1",
+            "unit": "棵",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "枸杞",
+            "cnt": "2",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞腿",
+            "cnt": "2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "薑片",
+            "cnt": "15",
+            "unit": "片",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "黑芝麻油",
+            "cnt": "200",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "台灣紅標米酒",
+            "cnt": "600",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "海鹽",
+            "cnt": "8",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "將雞腿切件備用；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160525/92dfb2c5-17e8-493e-a0d7-b968f55cd16a",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "用中火燒熱鍋，加入芝麻油，炒香薑片；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160525/a5c7d0ec-a80a-4d32-8eb8-07042ff04f08",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "加入雞腿肉炒至表面金黃色；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160525/dd9998d2-29d6-43f3-a839-44a6c33ac223",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "加入米酒、蔥、杞子及海鹽，熬煮40分鐘，灑上白芝麻裝飾即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160525/7c496903-4707-44ee-83b8-e794626a4694",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37984&languageId=2&mainland=2&ver=2&regionCode=156"
+}

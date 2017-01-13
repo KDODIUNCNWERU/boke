@@ -1,0 +1,137 @@
+{
+    "id": 1376,
+    "title": "臘肉炒豆角",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1376_1713.jpg",
+    "clickCount": 342,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2013-03-07 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "水",
+            "cnt": "100",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "洋蔥",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜",
+            "cnt": "2",
+            "unit": "瓣",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蔥",
+            "cnt": "20",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "豆角",
+            "cnt": "150",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "臘肉",
+            "cnt": "100",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蘿蔔",
+            "cnt": "50",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "燈籠椒",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5782_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "按照指示準備材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5782_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "按照指示準備材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5784_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "按照指示準備材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5784_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "按照指示準備材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5785_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "加入臘肉炒香",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5785_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "之後放入洋蔥，泡菜蘿蔔和水",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5786_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "加入燈籠椒",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5786_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "加入適量鹽調味料，最後撒上蔥花，即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5787_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "加入適量鹽調味料，最後撒上蔥花，即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5787_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1376&languageId=2&mainland=2&ver=2&regionCode=156"
+}

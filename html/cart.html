@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>购物车</title>
+		<link rel="stylesheet" type="text/css" href="../css/cart.css"/>
+	</head>
+	<body>
+		<header>
+			<a href="javascript:history.go(-1);"><span class="iconfont icon-zuo"></span></a>
+			<em>购物车</em>
+		</header>
+		<div class="empty">
+			<div class="pic"></div>
+			<p>您还没有添加商品进入购物车哦</p>
+		</div>
+		<div class="goods">
+			<div class="circle"></div>
+			<dl>
+				<dt><img src="" /></dt>
+				<dd>
+					<p>爱尔兰进口金凯利软质草饲黄油</p>
+					<span>￥45.0</span>
+				</dd>
+			</dl>
+			<div class="count">×<span>8</span></div>
+		</div>
+		
+		<footer>
+			<div class="all">
+				<div class="circle"></div>全选
+			</div>
+			<div class="together">
+				合计: <em>￥</em><span>0.00</span>
+			</div>
+			<div class="allin">结算</div>
+		</footer>
+	</body>
+	<script src="../src/js/sea.js"></script>
+	<script>
+		// 调用指定模块
+		// 相对于sea.js   ../js/mysea
+		// 相对于页面              js/mysea
+		// 相当于seajs处于的文件夹  lib   对
+		seajs.use(["../js/cart"],function(app){
+			// app =={init:P._init}
+			app.init();
+			
+		})
+	</script>
+</html>

@@ -1,0 +1,134 @@
+{
+    "id": 37704,
+    "title": "暖心羊肉濃湯",
+    "description": "轉眼就是一年中最冷的節氣大寒了，什麼食材最適合用來抵禦嚴寒呢？羊肉當然是最好的選擇，今天Norma就和大家分享一款暖心冬日靚湯——暖心羊肉濃湯，一起做起來吧。\r\n",
+    "detailsUrl": null,
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20161021/c9eae61a-faf6-46e7-a8e6-a6cba1b5c8e1",
+    "clickCount": 43749,
+    "shareCount": 0,
+    "maketime": "1小時",
+    "releaseDate": "2016-10-21 16:09:01.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "鹽 ",
+            "cnt": "3",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "洋蔥",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "意大利香料",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "黑胡椒",
+            "cnt": "3",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "薯仔",
+            "cnt": "1",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅蘿蔔",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜",
+            "cnt": "2",
+            "unit": "瓣",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "番茄醬",
+            "cnt": "3",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "大蔥",
+            "cnt": "2",
+            "unit": "條",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "西芹",
+            "cnt": "2",
+            "unit": "條",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "羊肉",
+            "cnt": "300",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "羊肉洗淨切塊，土豆去皮切塊，胡蘿蔔切滾刀塊，洋蔥切塊，西芹洗淨切段。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160612/5a473a2d-d16d-4f79-b560-d5fb998fdc70",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "羊肉洗淨切塊，土豆去皮切塊，胡蘿蔔切滾刀塊，洋蔥切塊，西芹洗淨切段。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160612/27590320-66b6-4fa6-bb1d-dd15c5ce81d7",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "蒜用刀輕拍裂，大蔥切段。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160612/4a4a8549-ceeb-4d89-afa2-8aee0d88d101",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "熱油鍋，煎羊肉，煎至表面金黃翻過來煎2-3分鐘盛出備用",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160612/7989f5bb-5d4e-46af-9b59-62aee64540d8",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "在同一個鍋爆香蔥蒜，炒香洋蔥，之後加入胡蘿蔔、土豆、西芹",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160612/dea248d3-200f-4f17-b72b-258cb5a83e68",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "加入番茄汁炒均勻，加入熱水和羊肉",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160612/51dd88e1-dbe5-4408-981f-9a21a8db9914",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37704&languageId=2&mainland=2&ver=2&regionCode=156"
+}

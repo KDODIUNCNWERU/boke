@@ -1,0 +1,80 @@
+{
+    "id": 37886,
+    "title": "OREO變裝曲奇",
+    "description": "OREO你吃過不少，有沒有想過加點創意，它可以變作很有特色的Party小吃？只需要OREO曲奇和它的忌廉餡，再加少少裝飾，連焗爐都不用就做到了！立刻拿一包OREO跟著做吧！\r\n",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160619_2/37886.mp4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160426/ba6c0351-5654-4604-a7d4-9febc67d0672",
+    "clickCount": 23013,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2016-04-26 00:00:00.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "抹茶粉",
+            "cnt": "3",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "可可粉",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "OREO曲奇",
+            "cnt": "1",
+            "unit": "包",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "彩色糖珠",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅色食用色素",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "用抹刀將曲奇的忌廉餡料刮下來，放在一個小碗裡",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160426/2a36df2b-2735-444f-aa24-f9dd038b330c",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "用微波爐加熱30秒",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160426/a8e85697-d135-4a77-8d3b-fbb357e36f34",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "將忌廉餡料分成三份，分別使用粉紅色素、可可粉及抹茶粉調色",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160426/46f1c3e0-6957-4dc1-b751-99a7b5f71cfd",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "將曲奇的一半沾上忌廉。放在烤盤紙上，撒上彩色糖珠裝飾，等忌廉定型即可",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160426/65e47298-ec97-4ee8-af55-2cb17cfa9259",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=37886&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37886&languageId=2&mainland=2&ver=2&regionCode=156"
+}

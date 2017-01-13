@@ -1,0 +1,145 @@
+{
+    "id": 38119,
+    "title": "黑椒洋蔥炆豬手",
+    "description": "濃郁的黑椒汁，再加上香甜的洋蔥，將豬手炆至稔滑，味道一流，醬汁更可以用來撈飯！",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160707/d79a91bc-1e97-4a63-a4cf-fe74ad425a5a",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160701/48b1b157-5390-4e63-884b-af8cd6905662",
+    "clickCount": 36300,
+    "shareCount": 0,
+    "maketime": "1.5小時",
+    "releaseDate": "2016-07-07 00:00:00.0",
+    "ingredientImageUrl": "http://pic.daydaycook.com/production/images/20160701/868dad8b-769e-4929-b98a-4647b94e063e",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "冰糖",
+            "cnt": "20",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "水",
+            "cnt": "700",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "生抽",
+            "cnt": "2",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "洋蔥",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紹興酒",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "青燈籠椒",
+            "cnt": "1/2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅燈籠椒",
+            "cnt": "1/2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜頭",
+            "cnt": "3",
+            "unit": "瓣",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "黑胡椒",
+            "cnt": "2",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "老抽",
+            "cnt": "2",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "將豬手洗淨，用紹興酒、生抽、老抽及黑胡椒醃30分鐘；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160701/350c3c41-249c-47c6-ad5b-e2f0faa4bb07",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "將洋蔥切絲；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160701/857e290d-72a3-481a-b13c-e85d47f46486",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "雙色燈籠椒切粒；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160701/0959434d-b777-4ba6-85be-7516629da42c",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "中高火燒熱鍋，加少許油，將蒜頭及洋蔥炒香；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160701/694d6766-dd24-40a9-970e-55f43e0fb2bc",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "加入豬手，煎至表面金黃；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160701/4f1a6b96-85e1-4c2f-8cfa-b73675313a07",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "加入雙色燈籠椒及黑胡椒炒香；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160701/0d51005f-ac29-4761-9558-e4bed3869e54",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "加入水、老抽、生抽及冰糖；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160701/0c22313c-26bf-473d-b34b-74a63e8e304c",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "轉中火，蓋上蓋煮1小時，或至豬手軟腍；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160701/77f3b6cb-8a82-4fc4-9fde-d23c7b872eef",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160701/6f94df79-b128-492b-a5de-e56d522eeb64",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=38119&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=38119&languageId=2&mainland=2&ver=2&regionCode=156"
+}

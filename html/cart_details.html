@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="../css/cart_details.css"/>
+	</head>
+	<body>
+		<header>
+			<a href="javascript:history.go(-1);"><span class="icon iconfont icon-zuo"></span></a>
+			爱尔兰进口金凯利软质草饲黄油
+			<span class="icon iconfont icon-fenxiang1"></span>
+		</header>
+		
+		<!--
+        	banner
+        -->
+        <div class="swiper-container" id="banner">
+			<div class="swiper-wrapper"></div>
+			<div class="swiper-pagination"></div>			
+		</div>
+		
+		<h2>爱尔兰进口金凯利软质草饲黄油</h2>
+		<div class="price">￥45.0</div>
+		
+		<section class="buy">
+			<div class="details">
+				<dl>
+					<dt>
+						<img src="" />
+					</dt>
+					<dd>
+						<h2>三人山葵芥末酱43g</h2>
+						<span class="store">库存:&nbsp;</span>
+						<span class="number">100</span>
+						<span class="sprice">￥29.0</span>
+					</dd>
+					<span class="icon iconfont icon-cha"></span>
+				</dl>
+				<span class="nums">数量</span>
+				<span class="reduce">-</span>
+				<span class="num">1</span>
+				<span class="increse">+</span>
+			</div>
+			<span class="certain">确认</span>
+		</section>
+		
+		<footer>
+			<span class="icon iconfont icon-gouwuche"></span>
+			<div class="radius"></div>
+			<span class="addcart">加入购物车</span>
+			<span class="buynow">立即购买</span>
+		</footer>
+	</body>
+	<script src="../src/js/sea.js"></script>
+	<script>
+		// 调用指定模块
+		// 相对于sea.js   ../js/mysea
+		// 相对于页面              js/mysea
+		// 相当于seajs处于的文件夹  lib   对
+		seajs.use(["../js/cart_details"],function(app){
+			// app =={init:P._init}
+			app.init();
+			
+		})
+	</script>
+</html>

@@ -1,0 +1,97 @@
+{
+    "id": 1017,
+    "title": "雞蛋蔬菜捲[簡易親子食譜]",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1017_1242.JPG",
+    "clickCount": 1514,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2012-10-08 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "雞蛋",
+            "cnt": "1",
+            "unit": "隻",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "火腿",
+            "cnt": "2",
+            "unit": "片",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白麵包",
+            "cnt": "2",
+            "unit": "片",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "瀝乾的蔬菜",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "雞蛋，火腿和煮熟的蔬菜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_3511_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "白麵包",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_3511_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "雞蛋煎至全熟",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_3513_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "將蛋餅晾涼",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_3513_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "在麵包上放上火腿",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_3514_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "之後加上一層蔬菜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_3514_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "最後再扣上蛋餅",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_3515_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "小心的用雙手將三明治捲成捲狀",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_3515_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1017&languageId=2&mainland=2&ver=2&regionCode=156"
+}

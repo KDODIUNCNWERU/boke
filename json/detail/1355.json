@@ -1,0 +1,132 @@
+{
+    "id": 1355,
+    "title": "菠菜肉香米粥",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1355_1686.jpg",
+    "clickCount": 2135,
+    "shareCount": 0,
+    "maketime": "1.5小時",
+    "releaseDate": "2013-02-27 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "水",
+            "cnt": "800",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鹽 ",
+            "cnt": "5",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "香菇",
+            "cnt": "2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "米",
+            "cnt": "100",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "麻油",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "菠菜",
+            "cnt": "200",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "瘦肉",
+            "cnt": "100",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞粉",
+            "cnt": "",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白胡椒",
+            "cnt": "",
+            "unit": "少许",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5651_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "菠菜洗淨切碎",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5651_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "瘦肉和香菇切絲備用",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5652_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "瘦肉和香菇切絲備用",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5652_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "把米和清水放入鍋中",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5654_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "加入菠菜絲，瘦肉絲，香菇絲",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5654_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "裝入喜歡的碗內",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5655_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "點上麻油即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5655_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1355&languageId=2&mainland=2&ver=2&regionCode=156"
+}

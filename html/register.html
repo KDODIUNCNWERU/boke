@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>注册</title>
+		<link rel="stylesheet" type="text/css" href="../css/register.css"/>
+	</head>
+	<body>
+		<header>
+			<div class="jump_login">
+				<span class="iconfont icon-zuo"></span>
+				<p>登录</p>
+			</div>
+			<p>注册新账号</p>
+		</header>
+		<section>
+			<layer class="phone">
+				<span class="iconfont icon-wo"></span>
+				<input type="text" placeholder="输入用户名" class="username" />
+			</layer>
+			<layer class="phone">
+				<span class="iconfont icon-wenhao"></span>
+				<input type="password" placeholder="输入密码" class="pwd" />
+			</layer>
+			<layer class="phone">
+				<span class="iconfont icon-wenhao"></span>
+				<input type="password" placeholder="输入密码" class="paw-again" />
+			</layer>
+			<layer class="psw">
+				<input type="button" value="完成" class="login" id="reg-btn"/>
+			</layer>
+			<layer class="else">
+				<span class="iconfont" id="gou">&#xe63c</span>
+				<span id="gou2"></span>
+				<em>我已阅读并同意</em>
+				<a href="">日日煮注册协议及隐私条款</a>
+			</layer>
+		</section>
+	</body>
+	<script src="../src/js/sea.js"></script>
+
+	<script>
+    seajs.use(["../js/register"],function (app) {
+        app.init();
+    })
+    </script>
+</html>

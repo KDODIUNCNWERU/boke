@@ -1,0 +1,125 @@
+{
+    "id": 1431,
+    "title": "蛋白炒蝦仁",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1431_1777.JPG",
+    "clickCount": 411,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2013-03-25 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "蛋白",
+            "cnt": "40",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "牛奶",
+            "cnt": "100",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鹽 ",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "粟粉",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蔥",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蝦仁",
+            "cnt": "10",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白胡椒",
+            "cnt": "",
+            "unit": "少许",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "中式料酒",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6193_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "蔥切碎",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6193_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "醃製蝦仁",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6195_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "在碗中將蛋白，牛奶和蔥混合均勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6195_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "蝦仁出水2分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6196_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "加入蛋白糊快速翻炒1分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6196_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "加入蝦仁。繼續翻炒直至蝦仁完全熟透",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6197_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "加入適量鹽調味，即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6197_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1431&languageId=2&mainland=2&ver=2&regionCode=156"
+}

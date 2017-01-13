@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="../css/recipes_search.css"/>
+	</head>
+	<body>
+		<header>
+			<div class="search">
+				<i class="iconfont btn">&#xe610</i>
+				<ul>
+					<li>家常菜<b></b></li>
+				</ul>
+			</div>
+			<a href="javascript:history.go(-1);" class="iconfont eixt">&#xe647</a>
+		</header>
+		<ul class="choose">
+			<li>味道 <b></b></li>
+			<li>烹饪技术<b></b></li>
+			<li>烹饪时间<b></b></li>
+		</ul>
+		<div class="choose_list">
+			<dl>
+				<dt><span class="active">不限</span></dt>
+				<dd>
+				</dd>
+			</dl>
+			<dl>
+				<dt><span class="active">不限</span></dt>
+				<dd>
+				</dd>
+			</dl>
+			<dl>
+				<dt><span class="active">不限</span></dt>
+				<dd>
+				</dd>
+			</dl>
+		</div>
+		<div id="wrapper">
+	        <!-- scroller 滚动区域-->
+	        <div id="scroller">
+	            <div id="pullDown">
+	                <span class="pullDownIcon"></span>
+	                <span class="pullDownLabel">下拉刷新...</span>
+	            </div>
+	            <div class="food_display">
+	              <!--<dl>
+	              	<dt><img src="../img/f_food01.png"/></dt>
+	              	<dd class="mz">双菇鳗鱼炒乌冬</dd>
+	              	<dd class="js">光棍节当然不会要大家亏待自己光棍节当然不会要大家亏待自己</dd>
+	              	<dd class="others"><i class="iconfont">&#xe62a</i><em class="iconfont">&#xe63f</em><span>5354</span></dd>
+	              </dl>-->
+	            </div>
+	           <div id="pullUp">
+	                <span class="pullUpIcon"></span>
+	                <span class="pullUpLabel">加载更多...</span>
+	            </div>
+	        </div>
+		</div>
+
+		
+		
+		
+	</body>
+	<script src="../src/js/sea.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		seajs.use(["../js/recipes_search","../js/recipes_iscroll"],function(app,tpp){
+				// app =={init:P._init}
+				app.init();
+				tpp.init();
+			})
+	</script>
+</html>

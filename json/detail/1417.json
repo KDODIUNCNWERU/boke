@@ -1,0 +1,85 @@
+{
+    "id": 1417,
+    "title": "三色椒煎蛋 [復活節特別食譜]",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1417_1759.jpg",
+    "clickCount": 1230,
+    "shareCount": 0,
+    "maketime": "10分鐘",
+    "releaseDate": "2013-03-21 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "鹽 ",
+            "cnt": "5",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "胡椒粉",
+            "cnt": "5",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞蛋",
+            "cnt": "3",
+            "unit": "隻",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "燈籠椒",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6080_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "三色燈籠椒洗淨，各切下約1/2英寸厚的圈",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6080_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "放入三色椒圈",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6082_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "將雞蛋小心打入燈籠椒圈內",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6082_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "撒上適量鹽和胡椒調味",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6083_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "轉入喜歡的盤中，即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6083_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1417&languageId=2&mainland=2&ver=2&regionCode=156"
+}

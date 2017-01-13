@@ -1,0 +1,194 @@
+{
+    "id": 38009,
+    "title": "牛柳絲炒即食麵",
+    "description": "即食麵一般煮成湯麵，但自從茶餐廳出現炒即食麵後，即成為香港一道代表性的茶餐廳美食，加入多種顏色的蔬菜和牛柳絲同炒，即成為色香味俱全的豐富晚餐。",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160619_2/38009.mp4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160602/bb839ced-3bfb-46db-abf6-61bba7e36fbb",
+    "clickCount": 32534,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2016-06-11 00:00:00.0",
+    "ingredientImageUrl": "http://pic.daydaycook.com/production/images/20160602/93eb6d87-1cc7-4321-9794-4196feb283d1",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "水",
+            "cnt": "15",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "薑",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "胡椒粉",
+            "cnt": "10",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "生抽",
+            "cnt": "2",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "洋蔥",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "即食麵",
+            "cnt": "2",
+            "unit": "包",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紹興酒",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蔥花",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "粟粉",
+            "cnt": "5",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "老抽",
+            "cnt": "1",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "麻油",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅辣椒",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜頭",
+            "cnt": "2",
+            "unit": "瓣",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅蘿蔔",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白芝麻粒",
+            "cnt": "1",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "牛柳",
+            "cnt": "50",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "大豆芽",
+            "cnt": "20",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "牛柳切絲，加入水、紹興酒、生抽、生粉及胡椒粉醃15分鐘；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160602/3bd0e76a-5b1a-486e-a6e5-566f43173763",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "洋蔥、紅蘿蔔及及紅辣椒切絲；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160602/62b9bd1d-a875-4e2b-bf91-197234dd84bb",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "薑切絲；蒜頭切片；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160602/179dd8ca-7d67-4c35-bf98-b1f140be3fe8",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "煮滾一鍋水，加入即食麵煮至鬆散，撈起浸在凍水中放涼，撈起瀝乾備用；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160602/fbbc3046-cd8d-4f80-b1e4-fc7c6fb2ba34",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "用中高火燒熱鍋，加少許油，加入蒜頭及薑炒香，加入牛柳炒至半熟，盛起備用；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160602/2217f95e-7897-4332-8f38-7f7054b2a25a",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "用同一個鍋，加少許油，加入洋蔥、紅蘿蔔及芽菜快炒；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160602/08f9ac00-102a-43a7-846e-61a162bc7d83",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "加入牛柳及即食麵炒勻，加入生抽、老抽拌勻；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160602/9355e5be-b698-4145-bf90-6531770ee969",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "灑上蔥粒、紅辣椒及麻油拌勻，上碟；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160602/112eeff8-ed75-451c-a2ec-c16cbfb1c2ea",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "灑上白芝麻粒即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160602/6a04848b-261b-42fe-8cee-44cbd6665294",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=38009&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=38009&languageId=2&mainland=2&ver=2&regionCode=156"
+}

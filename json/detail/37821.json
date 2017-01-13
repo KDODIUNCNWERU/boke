@@ -1,0 +1,92 @@
+{
+    "id": 37821,
+    "title": "朱古力蛋糕棒",
+    "description": "甜品控一般都喜歡吃朱古力，這款朱古力蛋糕棒，賣相很吸引，但做法是你意想不到的簡單，開派對或用來做小禮物送給朋友都適合，小朋友見到一定很喜歡。\r\n",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160619_2/37821.mp4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160322/58ff2ad6-13f3-49e9-bb3e-24c8910713b8",
+    "clickCount": 23219,
+    "shareCount": 0,
+    "maketime": "20分鐘",
+    "releaseDate": "2016-03-22 00:00:00.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "忌廉芝士",
+            "cnt": "70",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "牛油蛋糕",
+            "cnt": "200",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "士多啤梨果醬",
+            "cnt": "2",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白朱古力",
+            "cnt": "20",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "黑朱古力",
+            "cnt": "100",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "將牛油蛋糕、忌廉芝士及士多啤梨果醬搓勻成麵糰",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160322/cb6aadd8-91d2-4de1-8753-6b0a026cb4b4",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "麵糰上蓋上保鮮紙，用擀麵棍將麵糰擀成5毫米厚",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160322/5a5120c7-df4f-49df-8f08-04b09edecb58",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "用曲奇模印出麵糰，放入雪櫃冷藏至硬身",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160322/0a7d32d1-cd11-4bfd-9265-f4950271dc58",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "隔熱水坐溶黑朱古力",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160322/5624beb6-47e7-44a5-9385-949e313af243",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "將冷藏至硬身的麵糰插入竹簽，沾上黑朱古力，放涼至朱古力凝固",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160322/ec4562d3-f838-40fb-b290-5fb704dd540d",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "隔熱水坐溶白朱古力，唧在朱古力蛋糕棒上裝飾，放涼凝固即成",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160322/a220081a-b4b7-4587-b289-39dbcdeb6cb2",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=37821&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37821&languageId=2&mainland=2&ver=2&regionCode=156"
+}

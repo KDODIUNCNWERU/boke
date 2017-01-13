@@ -1,0 +1,109 @@
+{
+    "id": 1284,
+    "title": "甜蜜燕麥香蕉[情人節特別食譜]",
+    "description": "",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160619_2/1284.mp4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1284_1613.jpg",
+    "clickCount": 2025,
+    "shareCount": 0,
+    "maketime": "10分鐘",
+    "releaseDate": "2013-01-26 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "雞蛋",
+            "cnt": "1",
+            "unit": "隻",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "粟粉",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "香蕉",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "燕麥片",
+            "cnt": "60",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5151_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "切香蕉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5151_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "打蛋",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5153_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "沾上生粉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5153_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "沾上蛋液",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5154_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "沾上燕麥",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5154_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "加入香蕉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5155_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "煎到兩面金黃",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5155_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "裝盤",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5156_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5156_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=1284&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1284&languageId=2&mainland=2&ver=2&regionCode=156"
+}

@@ -1,0 +1,116 @@
+{
+    "id": 297,
+    "title": "韓式泡菜炒飯",
+    "description": "韓式炒飯富有風味之餘又充滿特色，這道韓式炒飯就用上了各式糙米和糯米加上泡菜和蛋炒成，帶點辣味之餘口感又夠香口，一定要試一試呢。\r\n\t \r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_297_400.JPG",
+    "clickCount": 3469,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2012-02-27 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "雞蛋",
+            "cnt": "2",
+            "unit": "隻",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蔥",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "泡菜",
+            "cnt": "1",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "過夜白飯",
+            "cnt": "1",
+            "unit": "碗",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "午餐肉",
+            "cnt": "100",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "韓國泡菜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1110_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "其它成分",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1110_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "煎煮午餐肉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1112_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "炒飯",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1112_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "添加泡菜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1113_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "再添加煮好的午餐肉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1113_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "加入雞蛋後拌勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1114_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "泡菜炒飯",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1114_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "泡菜炒飯",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1115_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "泡菜炒飯",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1115_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=297&languageId=2&mainland=2&ver=2&regionCode=156"
+}

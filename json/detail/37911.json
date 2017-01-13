@@ -1,0 +1,60 @@
+{
+    "id": 37911,
+    "title": "韓式檸檬醬",
+    "description": "去餐廳吃韓國菜都會叫一杯韓國柚子茶，別少看它，它以前在韓國是進貢去宮庭的傳統茶！我們參考韓國柚子茶，用檸檬自製一樣養顏的韓式檸檬醬。加到有氣礦泉水，不單好喝，而且充滿維他命C，可以預防感冒呢！\r\n",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160503/d485b6e0-ecbb-494a-9ba5-65c0c5e4e5a4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160504/12e064e5-6293-47d0-9fd6-e3b712666be9",
+    "clickCount": 42884,
+    "shareCount": 0,
+    "maketime": "",
+    "releaseDate": "2016-05-04 00:00:00.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "細砂糖",
+            "cnt": "500",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "檸檬",
+            "cnt": "6",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "密封罐",
+            "cnt": "2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "檸檬切薄絲，把籽去除，放入碗裡",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160503/3346b6e5-87ec-46f1-afb7-78b4d41e23d2",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "加入糖拌勻，放入密封玻璃罐裡保存即可",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160503/7fc3e666-a2f0-4a28-a558-36d29cc371b8",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "加入2-3大匙到適量的有氣礦泉水，使用調匙攪拌均勻即可飲用，或搭配裡面的果肉和果皮食用。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160503/9b6100d3-799a-4fbf-b222-7d5f7404b249",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=37911&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37911&languageId=2&mainland=2&ver=2&regionCode=156"
+}

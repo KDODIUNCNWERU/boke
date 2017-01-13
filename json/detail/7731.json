@@ -1,0 +1,172 @@
+{
+    "id": 7731,
+    "title": "甜酸牛仔骨",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_7731_6201.jpg",
+    "clickCount": 1067,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2013-10-30 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "水",
+            "cnt": "100",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "芝麻油",
+            "cnt": "10",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鹽 ",
+            "cnt": "2",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白胡椒粉",
+            "cnt": "2",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "洋蔥",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "番茄醬",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "粟粉",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "砂糖",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "菠蘿",
+            "cnt": "2",
+            "unit": "片",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蔥",
+            "cnt": "20",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "豉油",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "牛仔骨",
+            "cnt": "300",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "三色燈籠椒",
+            "cnt": "30",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "食材",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_15541_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "燈籠椒和洋蔥切成小塊",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_15541_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": " 用刀背拍牛仔骨的雙面嫩化牛肉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_15561_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "然後醃製10分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_15561_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "在油鑊內高火加熱適量油，加入牛仔骨煎至邊緣金黃",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_15571_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "加入燈籠椒和洋蔥，翻炒3分鐘然後起鍋",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_15571_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "加入番茄醬，鹽和糖",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_15581_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "然後倒入水混合均勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_15581_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "加入牛仔骨和蔬菜徹底翻炒",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_15591_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_15591_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=7731&languageId=2&mainland=2&ver=2&regionCode=156"
+}

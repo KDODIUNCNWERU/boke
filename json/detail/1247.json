@@ -1,0 +1,276 @@
+{
+    "id": 1247,
+    "title": "八寶飯- 過年少不了的甜點[農曆新年食譜]",
+    "description": "",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160619_2/1247.mp4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1247_1574.jpg",
+    "clickCount": 1085,
+    "shareCount": 0,
+    "maketime": "1.5小時",
+    "releaseDate": "2013-01-18 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "水",
+            "cnt": "200",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蜜糖 ",
+            "cnt": "2",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鹽 ",
+            "cnt": "5",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "油",
+            "cnt": "2",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "糯米",
+            "cnt": "400",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "淀粉",
+            "cnt": "20",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅豆",
+            "cnt": "340",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "砂糖",
+            "cnt": "100",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅豆沙",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "材料 ",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4882_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "將紅豆泡於水中",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4882_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "將泡好的紅豆倒入鍋中",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4884_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "放入研磨器",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4884_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "打成紅豆泥",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4885_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "加入紅豆泥將其炒軟",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4885_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "加入適量糖並攪拌均勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4886_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "之後盛入碗中備用",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4886_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": " 蓮子在水中泡至少30分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4888_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "倒入鍋中煮30分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4888_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "糯米在水中泡15分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4889_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 12,
+            "content": "之後瀝幹備用",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4889_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 13,
+            "content": "準備一個蒸鍋",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4890_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 14,
+            "content": "將準備好的糯米倒入盤中",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4890_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 15,
+            "content": "趁熱倒入油和少量鹽",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4891_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 16,
+            "content": "首先放入一圈乾果和蓮子",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4891_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 17,
+            "content": "之後蓋上一層糯米",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4892_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 18,
+            "content": "按壓緊實並把表面抹平",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4892_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 19,
+            "content": "再加上一圈乾果和蓮子",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4893_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 20,
+            "content": "中間留空",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4893_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 21,
+            "content": "把自製的紅豆沙填入中間留空的地方",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4894_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 22,
+            "content": "最後將碗中剩餘的空間全部用糯米填滿",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4894_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 23,
+            "content": "將糯米壓實",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4895_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 24,
+            "content": "準備另一個蒸鍋",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4895_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 25,
+            "content": "加蓋高火蒸製20分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4896_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 26,
+            "content": "將糖漿的原料在鍋中混合煮滾",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4896_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 27,
+            "content": "準備一個喜歡的盤子",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4897_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 28,
+            "content": "扣在蒸飯的碗上",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4897_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 29,
+            "content": "將碗翻轉過來",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4898_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 30,
+            "content": "小心拿掉蒸碗",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4898_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 31,
+            "content": "將糖漿倒在八寶飯上",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4899_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 32,
+            "content": "即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_4899_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=1247&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1247&languageId=2&mainland=2&ver=2&regionCode=156"
+}

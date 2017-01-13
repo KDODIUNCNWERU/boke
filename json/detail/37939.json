@@ -1,0 +1,248 @@
+{
+    "id": 37939,
+    "title": "韓式干烹雞",
+    "description": "這道料理源自於中國的干烹雞,早期韓國人調整成當地偏好的口味後,放入蒜香辣味的元素,以及酸甜的口味醬汁,就變成韓國的“中華炸雞料理”,甚至在美國的韓國餐廳盛行,嘗試過韓式炸雞的你,快來試試看新口味！\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160512/41c60fb3-e84b-45b0-a3aa-b02980e864e5",
+    "clickCount": 23577,
+    "shareCount": 0,
+    "maketime": "1小時",
+    "releaseDate": "2016-05-12 00:00:00.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "水",
+            "cnt": "60",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "香油",
+            "cnt": "2",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "黑胡椒",
+            "cnt": "5",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白芝麻",
+            "cnt": "1",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "大蔥",
+            "cnt": "1",
+            "unit": "條",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜瓣",
+            "cnt": "8",
+            "unit": "",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "干辣椒",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白醋",
+            "cnt": "30",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞髀肉",
+            "cnt": "700",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蔥末",
+            "cnt": "2",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "薑泥",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "韩国酱油",
+            "cnt": "2",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "韩国酱油",
+            "cnt": "2",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "土豆淀粉",
+            "cnt": "2",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "土豆淀粉",
+            "cnt": "2",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蛋清",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "韩国辣椒面",
+            "cnt": "3",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "绿辣椒 ",
+            "cnt": "2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "美人椒",
+            "cnt": "2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "洋蔥粒",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "玉米糖浆",
+            "cnt": "4",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "腰果",
+            "cnt": "",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "食用油",
+            "cnt": "1",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "把雞腿肉切塊狀,放入姜泥,醬油及黑胡椒,拌勻靜置20分",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160512/2ca0d4d6-4634-4ace-85bc-e31dc62cbafd",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "加入蛋清及馬鈴薯澱粉用手拌勻",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160512/4949c524-3259-4b73-8d7e-1a329001ef86",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "把大蔥切絲, 蒜瓣切1/2",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160512/3c1c50e5-0334-4582-960d-832150c5dbfc",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "準備小鍋,倒入125毫升的油,加熱,放入大蒜及蔥絲炸金黃色, 撈起備用",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160512/3db36dc3-369e-4c19-9aeb-6be71aa4d32f",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "接著取用適量熱油倒入辣椒麵,降溫後過濾辣椒麵,保存辣油備用",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160512/3aa5e229-1cad-40a0-b049-677b59102bce",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "準備炸鍋倒入1000毫升的油,大火加熱約4分鐘,轉中火,把雞肉放入油鍋內,不停翻拌油鍋內的雞肉,大約炸五分鐘,撈起,熄火",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160512/b262dee0-1f6e-40c2-befb-39db9faf7a91",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "把紅綠辣椒切絲備用",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160512/4292a844-b1da-4b78-b027-0195ba7bb9eb",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "準備小碗放入醬油,玉米糖漿,水,白醋及馬鈴薯澱粉拌勻備用",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160512/8ed4c467-42e6-429f-b588-4dfd4f907074",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "取一個炒鍋,放入自製辣油加熱,放入紅綠辣椒絲,洋蔥丁,蔥末,乾辣椒,大火爆炒2~3分,加入拌好的酸甜醬汁熬煮20~30秒後熄火",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160512/11bffaef-5682-4a25-9d0f-71f8efdac24d",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "把炸過的雞塊再次回鍋炸約3~5分鐘直到淺棕色後撈起瀝乾",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160512/e5758494-abec-4582-86bb-a8888e733c2c",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "把炸好的雞塊放入步驟（4）鍋內加熱,使雞塊均勻裹上醬汁,放入炸過的蔥絲,大蒜,香油及白芝麻,拌勻裝盤",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160512/f7e415a2-34ee-42da-8aba-2a9768daf853",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37939&languageId=2&mainland=2&ver=2&regionCode=156"
+}

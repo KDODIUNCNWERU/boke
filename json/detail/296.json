@@ -1,0 +1,123 @@
+{
+    "id": 296,
+    "title": "甜菜根沙拉",
+    "description": "甜菜根蘊含豐富的抗氧份成份和營養，其中包括有鐵、鎂、維他命C等等。一般來說生菜根都是以白煮或烘焙的方式來做的，而冷卻之後則可以作為沙拉食用。今次我們要做的就是用甜菜根做的這款簡易甜菜根沙拉。\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_296_398.JPG",
+    "clickCount": 582,
+    "shareCount": 0,
+    "maketime": "1小時",
+    "releaseDate": "2012-02-27 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "鹽 ",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "黑椒",
+            "cnt": "4",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "甜菜根",
+            "cnt": "4",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "濃忌廉",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "菲達芝士",
+            "cnt": "20",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "沙律菜",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "甜菜根",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1101_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "甜菜根",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1101_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "乳酪",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1102_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "沙拉葉子",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1102_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "洗淨瀝乾甜菜根",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1105_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "用錫紙包起",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1105_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "剝皮",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1106_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "將切成大塊",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1106_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "配用濃忌廉、 鹽、 胡椒",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1107_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "甜菜根沙拉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1107_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=296&languageId=2&mainland=2&ver=2&regionCode=156"
+}

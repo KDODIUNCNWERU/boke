@@ -1,0 +1,85 @@
+{
+    "id": 1411,
+    "title": "玫瑰冰糖小米粥 [健康粗糧食譜]",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1411_1751.jpg",
+    "clickCount": 1681,
+    "shareCount": 0,
+    "maketime": "1小時",
+    "releaseDate": "2013-03-19 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "冰糖",
+            "cnt": "40",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "水",
+            "cnt": "400",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "乾玫瑰花",
+            "cnt": "4",
+            "unit": " 朵",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "小米",
+            "cnt": "60",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6033_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "玫瑰花苞泡水",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6033_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "在鍋中加入冰糖，小米和玫瑰花瓣",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6035_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "之後轉為中火再煮30分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6035_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "撒上適量玫瑰花瓣做裝飾",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6036_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6036_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1411&languageId=2&mainland=2&ver=2&regionCode=156"
+}

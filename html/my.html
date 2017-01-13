@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>我的</title>
+		<link rel="stylesheet" type="text/css" href="../css/my.css"/>		
+	</head>
+	<body>
+		<header>
+			<div class="logo">
+				<div class="logo_small"></div>
+				<div class="username">登录/注册</div>
+			</div>
+			<div class="iconfont icon-iconset0336"></div>
+		</header>
+		<section>
+			<ul class="collect">
+				<li>
+					<div class="left">
+						<span class="iconfont icon-xihuan"></span><i>我的收藏</i>					
+					</div>
+					<div class="right">
+						<i></i><span></span>
+					</div>
+				</li>
+				<li>
+					<div class="left">
+						<span class="iconfont icon-zuji"></span><i>我的足迹</i>					
+					</div>
+					<div class="right">
+						<i></i><span></span>
+					</div>
+				</li>
+				<li>
+					<div class="left">
+						<span class="iconfont icon-gouwuche"></span><i>购物车</i>					
+					</div>
+					<div class="right">
+						<i>无商品</i><span></span>
+					</div>
+				</li>
+				<li>
+					<div class="left">
+						<span class="iconfont icon-list"></span><i>我的订单</i>					
+					</div>
+					<div class="right">
+						<i></i><span></span>
+					</div>
+				</li>
+				<li class="sys">
+					<div class="left">
+						<span class="iconfont icon-youhuiquan"></span><i>扫一扫</i>		 			
+					</div>
+					<div class="right">
+						<i></i><span></span>
+					</div>
+				</li>
+				<li>
+					<div class="left">
+						<span class="iconfont icon-dizhi"></span><i>地址管理</i>					
+					</div>
+					<div class="right">
+						<i>无地址</i><span class="iconfont icon-you"></span>
+					</div>
+				</li>			
+			</ul>
+			
+			<div class="exit">登出</div>
+					
+		</section>
+		<footer></footer>
+	</body>	
+	<script src="../src/js/sea.js"></script>
+
+	<script>
+    seajs.use(["../js/my"],function (app) {
+        app.init();
+    })
+    </script>
+</html>

@@ -1,0 +1,109 @@
+{
+    "id": 290,
+    "title": "蒜頭豆角炒橄欖菜",
+    "description": "這道是在中菜中很受歡迎的一道素菜，豆角爽脆的口感配上橄欖菜和蒜頭的香味既健康又可口。\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_290_388.JPG",
+    "clickCount": 1006,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2012-02-23 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "紅辣椒",
+            "cnt": "2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜頭",
+            "cnt": "4",
+            "unit": "瓣",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "豆角",
+            "cnt": "200",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "橄欖菜醬",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "豆、 大蒜、 辣椒",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1049_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "橄欖菜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1049_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "切豆",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1052_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "炸豆",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1052_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "炒豆",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1053_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "準備其他食材",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1053_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "煎香蒜頭後加入豆",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1054_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "添加中國橄欖",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1054_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "炒勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1055_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "四季豆炒橄欖菜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1055_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=290&languageId=2&mainland=2&ver=2&regionCode=156"
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>Geolocation Example</title>
+		<style type="text/css">
+			*{
+				padding: 0;
+				margin: 0;
+			}
+			html,body{
+				width: 100%;
+				height: 100%;
+			}
+			img{
+				width:100%;
+				height: 100%;
+				opacity: 0;
+				animation:opc 2s both;
+			}
+			@keyframes opc{
+				from{opacity: 0;}
+				to{opacity: 1;}
+			}
+		</style>
+		<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=32f17d2ee72f43e31a28fe2bfe840b96"></script>
+		<script type="text/javascript">
+			document.addEventListener("plusready", onPlusReady, false);
+			function onPlusReady() {
+				plus.geolocation.getCurrentPosition(function(p) {
+					var $latitude = p.coords.latitude;
+					var $longitude = p.coords.longitude;
+					plusReady($latitude, $longitude);
+				}, function(e) {
+					alert("Geolocation error: " + e.message);
+				});
+			}
+			setTimeout(function(){
+				location.href="html/home.html";
+			},3000);
+			function plusReady($latitude, $longitude){
+				// 百度地图API功能
+				var point = new BMap.Point($latitude, $longitude);
+				var geoc = new BMap.Geocoder();         
+				geoc.getLocation(point, function(rs){
+					var addComp = rs.addressComponents;
+					if(addComp.city){
+						localStorage.setItem("location",addComp.city);
+					}
+
+				});        
+			}
+		</script>
+	</head>
+	<body>
+		<img src="img/index.png" alt="" />
+	</body>
+</html>

@@ -1,0 +1,80 @@
+{
+    "id": 37712,
+    "title": "蒜苗炒臘肉",
+    "description": "不少人都會買臘肉過年，尤其四川重慶等地，甚至有人保留醃臘肉送禮自用的傳統，醃至鹹鮮味十足的臘肉簡單配蔬菜一起炒，不用調味已經很好吃。\r\n",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160619_2/37712.mp4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20161021/114df900-a2ee-44fd-97f2-f482a305a424",
+    "clickCount": 27744,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2016-10-21 15:59:52.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "薑",
+            "cnt": "20",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "臘肉",
+            "cnt": "200",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜苗",
+            "cnt": "1",
+            "unit": "棵",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅尖椒",
+            "cnt": "2",
+            "unit": "隻",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "小青尖椒",
+            "cnt": "2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "臘肉浸在暖水中15分鐘，用廚房紙印乾水份，然後切片中。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/5133d391-409b-4a1b-8579-74ec06754f74",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "青尖椒及紅尖椒洗淨切碎；蒜曲洗淨切段；薑去皮切絲。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/1a364040-cb3c-4ac4-99d3-0996bef09d95",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "燒熱鍋，加少許油，炒香薑絲及紅尖椒。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/21d57c69-fe69-4d23-8155-21117bd4dc60",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "加入臘肉片炒勻，加入蒜苗及青尖椒炒勻，炒至蒜苗軟身即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/e2af12e8-bff6-4fe2-9578-48b51ae03133",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=37712&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37712&languageId=2&mainland=2&ver=2&regionCode=156"
+}

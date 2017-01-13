@@ -1,0 +1,92 @@
+{
+    "id": 17621,
+    "title": "家鄉蒸石斑 ",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": "",
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_17621_14651.jpg",
+    "clickCount": 473,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2014-01-24 00:00:00.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "薑, 蔥, 紅棗, 亁香菇",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_31651_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "瘦豬肉, 石斑",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_31651_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "冬菇泡發，切絲, 豬肉切絲",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_31671_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "紅棗泡軟，切成小塊",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_31671_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "將紅棗，香菇和豬肉在碗中混合。 加入糖，醬油和生粉腌製10分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_31681_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "在魚的每面劃上幾刀，使得魚更容易入味",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_31681_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "將準備好的魚放在蔥段上，撒上醃好的豬肉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_31691_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "再放上薑絲，隔水高火蒸約12分鐘，直到魚完全蒸熟",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_31691_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "加熱植物油，直到有少量煙冒出",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_31701_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "將熱好的油淋到魚上，撒上蔥絲做點綴",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_31701_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "最後淋上醬油",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_31711_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 12,
+            "content": "趁熱食用",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_31711_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=17621&languageId=2&mainland=2&ver=2&regionCode=156"
+}

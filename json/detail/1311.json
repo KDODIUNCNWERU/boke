@@ -1,0 +1,114 @@
+{
+    "id": 1311,
+    "title": "苦瓜的甜蜜吃法",
+    "description": "\t苦瓜与南瓜的完美结合，让不爱吃苦瓜的人，也会爱上苦瓜。苦味与甜味的结合，吃在嘴里也不觉得苦瓜有那么苦了，淡淡的苦瓜清香加上清甜软糯的南瓜，越吃越上瘾。性寒的苦瓜加上性温的南瓜，从搭配上来说比较合理，适合各个体质的人食用。\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1311_1640.jpg",
+    "clickCount": 961,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2013-02-06 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "南瓜",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "苦瓜",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "砂糖",
+            "cnt": "20",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5358_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "南瓜洗淨﹑去皮，切成片",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5358_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "苦瓜洗淨後從中間切開",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5360_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "將中間的瓜瓤去掉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5360_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "南瓜隔水蒸15分钟",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5361_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "将南瓜压成泥",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5361_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "加入适量白糖用勺子混合均匀",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5362_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "锅中水烧开",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5362_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "放入苦瓜出水5分钟",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5363_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "用勺子將南瓜泥放入苦瓜中",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5363_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "用刀将苦瓜切成均匀的片，",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5364_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 12,
+            "content": "即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5364_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1311&languageId=2&mainland=2&ver=2&regionCode=156"
+}

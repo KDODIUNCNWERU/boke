@@ -1,0 +1,111 @@
+{
+    "id": 37751,
+    "title": "雞肉乳酪沙律杯",
+    "description": "想吃得清淡一點，肉類選擇多以雞肉為主，因為它蛋白質含量高而熱量相對低，這個雞肉沙律更以希臘乳酪代替沙律醬，配以香脆而不油膩的餃子皮，口感清新健康。\r\n",
+    "detailsUrl": null,
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20161021/9ca85d83-1321-430c-a5a4-71d86c0e6ad0",
+    "clickCount": 19603,
+    "shareCount": 0,
+    "maketime": "20分鐘",
+    "releaseDate": "2016-10-21 15:25:22.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "餃子皮",
+            "cnt": "12",
+            "unit": "塊",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "青瓜",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅燈籠椒",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞胸肉",
+            "cnt": "200",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "希臘乳酪",
+            "cnt": "30",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鹽及黑胡椒",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "預熱焗爐至攝氏200度。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/e9a57f69-3321-4fd7-95d5-94e5d94db8b5",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "青瓜及紅燈籠椒切小粒。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/234fa000-d11d-4c97-ab67-faf149c61934",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "在餃子皮表面抹少許水，將2塊餃子皮放入模具中成碗裝。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/00de71b0-1625-40b4-9a94-f6a4a2e9c18c",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "放入焗爐焗8-10分鐘至餃子皮定型及金黃色。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/9373e8b5-da8d-4bec-ba42-e1b671b0203c",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "雞胸肉洗淨加少許鹽及黑胡椒。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/da1cff51-8d93-4da9-9542-6d7a7dc244e8",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "燒熱鍋，加少許油，加入雞肉煎至兩面金黃色及全熟，取出切粒。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/66575180-e45c-41b2-b55c-199300dd0e79",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "將雞肉粒、青瓜粒、紅燈籠椒粉、希臘乳酪及黑胡椒拌勻。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/7e5c4692-658e-460e-87f2-1f772822ae16",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "放在焗好的餃子碗上即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/8513e521-15d5-47d6-8ef2-7073ca5af16c",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37751&languageId=2&mainland=2&ver=2&regionCode=156"
+}

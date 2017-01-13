@@ -1,0 +1,162 @@
+{
+    "id": 38047,
+    "title": "椒鹽雞軟骨",
+    "description": "椒鹽雞軟骨是經典的家常下酒菜。外酥內脆的雞軟骨，口感豐富，加上椒鹽樸實簡單的調味，減輕了油膩感，是很棒的下酒菜！",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160619_2/38047.mp4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160608/880a8fdc-4ac6-4c41-bf27-2b3bfa411a43",
+    "clickCount": 35469,
+    "shareCount": 0,
+    "maketime": "1小時",
+    "releaseDate": "2016-06-16 00:00:00.0",
+    "ingredientImageUrl": "http://pic.daydaycook.com/production/images/20160608/17afbedd-1924-4512-a590-acfcb96ba33b",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "蔥花",
+            "cnt": "5",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "椒鹽",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "指天椒",
+            "cnt": "2",
+            "unit": "隻",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "乾蔥頭",
+            "cnt": "2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜頭",
+            "cnt": "3",
+            "unit": "瓣",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞軟骨",
+            "cnt": "500",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "生抽(雞件醃料)",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "11",
+            "typeName": null
+        },
+        {
+            "name": "雞蛋(啤酒炸漿)",
+            "cnt": "1",
+            "unit": "隻",
+            "type": "12",
+            "typeName": null
+        },
+        {
+            "name": "紹興酒(雞件醃料)",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "11",
+            "typeName": null
+        },
+        {
+            "name": "麻油(雞件醃料)",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "11",
+            "typeName": null
+        },
+        {
+            "name": "鹽(啤酒炸漿)",
+            "cnt": "",
+            "unit": "適量",
+            "type": "12",
+            "typeName": null
+        },
+        {
+            "name": "砂糖(雞件醃料)",
+            "cnt": "1",
+            "unit": "茶匙",
+            "type": "11",
+            "typeName": null
+        },
+        {
+            "name": "胡椒粉(雞件醃料)",
+            "cnt": "",
+            "unit": "適量",
+            "type": "11",
+            "typeName": null
+        },
+        {
+            "name": "天婦羅炸粉(啤酒炸漿)",
+            "cnt": "150",
+            "unit": "g",
+            "type": "12",
+            "typeName": null
+        },
+        {
+            "name": "冰啤酒(啤酒炸漿)",
+            "cnt": "200",
+            "unit": "ml",
+            "type": "12",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "紅蔥頭、蒜頭及指天椒切幼粒；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160608/fb14353c-3582-4d69-b1ef-74ae7805f458",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "雞軟骨加入紹興酒、生抽、麻油、糖及胡椒粉醃20分鐘；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160608/49368224-ac31-4a59-97e1-2151453cc0a8",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "準備一個碗，加入雞蛋、天婦羅炸粉、及啤酒拌勻，靜置15分鐘；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160608/12bbda28-1d2e-49e0-9654-2680b6a6dc83",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "雞軟骨醮上炸漿，油炸至金黃色，放在廚房紙上吸收多餘油份；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160608/f934a93a-53df-4bb4-987c-47a50ad16416",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "用中火燒熱鍋，加少許油，炒香紅蔥頭、蒜頭及指天椒；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160608/d214d190-02f6-48d1-8f92-6af80d3534f2",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "加入雞軟骨及椒鹽炒勻，灑上蔥花即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160608/d4e48cdb-e2f0-4d26-b4d2-c32001c322d2",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=38047&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=38047&languageId=2&mainland=2&ver=2&regionCode=156"
+}

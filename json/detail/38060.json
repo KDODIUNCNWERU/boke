@@ -1,0 +1,141 @@
+{
+    "id": 38060,
+    "title": "豬油叉燒飯",
+    "description": "父親節快到來，不如親自下廚為爸爸做一碗飯。即使是最簡單的料理，都可以表達你的心意，今天就用五花腩配上簡單材料煮一碗美味的叉燒飯！",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160616/df10a63b-67c8-4d53-aeed-0f0a7d131f60",
+    "clickCount": 52173,
+    "shareCount": 0,
+    "maketime": "1小時",
+    "releaseDate": "2016-06-16 00:00:00.0",
+    "ingredientImageUrl": "http://pic.daydaycook.com/production/images/20160616/4f1df68e-66be-4c64-bcb8-8b480d253a7e",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "洋蔥",
+            "cnt": "1/2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蔥花",
+            "cnt": "3",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "老抽",
+            "cnt": "14",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "砂糖",
+            "cnt": "40",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "米酒 ",
+            "cnt": "3",
+            "unit": "湯匙 ",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "油",
+            "cnt": "10",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "味淋",
+            "cnt": "3",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白飯",
+            "cnt": "300",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜頭",
+            "cnt": "5",
+            "unit": "瓣",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "薑片",
+            "cnt": "4",
+            "unit": "片",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "海鹽",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "豬油",
+            "cnt": "30",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "將五花腩洗淨抹乾，灑上少許海鹽，備用；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160616/c612d32a-b315-4eaa-a02d-594a5763b4db",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "燒熱平底鍋，加入少許油，加入五花腩煎至金黃脆皮，熄火，備用；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160616/099a6677-81e4-4450-afef-a941c60b570e",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "準備一個湯鍋，加入800毫升水、洋蔥、米酒、砂糖、老抽、味醂、蔥段、蒜頭、薑片及五花腩，蓋上鍋蓋，轉中火煮30分鐘；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160616/79f3ebd3-b8da-4443-aac3-fac90650a510",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "將五花腩撈起切薄片，備用；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160616/4f98ac76-4cff-486c-a0e1-f94b9e4d4691",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "燒熱平底鍋，加入少許醬汁及豬油煮至濃稠；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160616/0926d016-0430-4ebf-ae03-bf46cad09ef8",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "將五花腩片放上白飯，淋上醬汁及蔥花，即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160616/493e6f95-398b-4c96-8893-954ddbdd15cf",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=38060&languageId=2&mainland=2&ver=2&regionCode=156"
+}

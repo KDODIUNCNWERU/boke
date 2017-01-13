@@ -1,0 +1,111 @@
+{
+    "id": 295,
+    "title": "豆瓣醬炒白菜",
+    "description": "有沒有發覺中餐通常都有一道菜是素菜呢？一般來說都是用蒜炒或是用高湯配上新鮮蔬菜做成的。今次我們要做的這款豆醬煮白菜就加入了一點新意，用上潮式豆瓣醬加上新鮮有機白菜，可口之餘又夠營養。",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_295_397.JPG",
+    "clickCount": 804,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2012-02-27 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "薑",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "清水",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "粟粉",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "豆瓣醬",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "有機白菜",
+            "cnt": "200",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "醬汁",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "豆瓣醬",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1093_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "白菜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1093_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "準備醬汁",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1096_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "攪勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1096_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "用大蒜和姜炒菜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1097_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "添加醬油",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1097_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "蓋蓋",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1098_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "豆瓣醬炒白菜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1098_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=295&languageId=2&mainland=2&ver=2&regionCode=156"
+}

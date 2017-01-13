@@ -1,0 +1,86 @@
+{
+    "id": 37778,
+    "title": "玫瑰蜂蜜薑茶",
+    "description": "玫瑰除了漂亮和代表愛情，其食用功效亦不容忽視，因為它有調經止痛、補血氣和美顏護膚的作用，再配搭驅寒的薑和滋潤的蜂蜜沖茶，讓你散發戀愛般的好氣息。\r\n",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160619_2/37778.mp4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160226/51ad6e88-41d7-48fb-9783-a08ff13b75ac",
+    "clickCount": 26321,
+    "shareCount": 0,
+    "maketime": "20分鐘",
+    "releaseDate": "2016-03-05 00:00:00.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "乾玫瑰花",
+            "cnt": "6",
+            "unit": " 朵",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "茶包",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "薑",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蜜糖 ",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "熱水",
+            "cnt": "500",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "乾玫瑰花洗淨備用",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160304/824dc7c8-6586-4f3c-9063-ed693fc78923",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "薑切成片",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160304/88951326-2bb1-4277-a06b-2259fb7a8390",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "將熱水倒入杯中，浸入茶包2分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160304/1ae1843a-b354-4d0a-a777-3a4b25262f9f",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "取出茶包，加入薑片和乾玫瑰花放置8-10分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160304/07c6adea-f287-423e-8dcd-8a5a49835ae7",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "加入蜂蜜拌勻即成",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160304/b7988fea-04bc-416b-8075-8084981bdcf6",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=37778&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37778&languageId=2&mainland=2&ver=2&regionCode=156"
+}

@@ -1,0 +1,128 @@
+@charset "UTF-8";
+
+@import url(../src/css/flexible.css);
+
+@import url(../src/css/swiper-3.3.1.min.css);
+
+@import url(../src/font/iconfont.css);
+
+@import url(../src/css/myiscroll.css);
+
+@import url(../src/css/mobile.css);
+
+@import url(../src/css/animate.min.css);
+
+@import url(./common.css);
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "微软雅黑";
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+span,
+b,
+a,
+img {
+  display: block;
+}
+
+.produst-display {
+  width: 100%;
+}
+
+.produst-display .swiper-banner {
+  width: 100%;
+  height: 6rem;
+}
+
+.produst-display .swiper-banner #index-banner {
+  width: 100%;
+  height: 100%;
+}
+
+.produst-display .swiper-banner #index-banner .swiper-wrapper,
+.produst-display .swiper-banner #index-banner .swiper-slide {
+  width: 100%;
+  height: 100%;
+}
+
+.produst-display .swiper-banner #index-banner .swiper-wrapper img,
+.produst-display .swiper-banner #index-banner .swiper-slide img {
+  width: 100%;
+}
+
+.produst-display .swiper-banner #index-banner .swiper-pagination {
+  bottom: 0;
+  height: 0.78125rem;
+}
+
+.produst-display .swiper-banner #index-banner .swiper-pagination .swiper-pagination-bullet {
+  width: 0.234375rem;
+  height: 0.234375rem;
+  margin: 0 0.15625rem;
+  border-radius: 50%;
+  border: 0.015625rem solid #ffffff;
+  background: transparent;
+}
+
+.produst-display .swiper-banner #index-banner .swiper-pagination .swiper-pagination-bullet-active {
+  background: darksalmon;
+}
+
+.content {
+  width: 100%;
+}
+
+.content ul {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-bottom: 1.328125rem;
+}
+
+.content ul li {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 0.015625rem solid #FFFFFF;
+  width: 4.953125rem;
+  height: 5rem;
+  background: #FFFFFF;
+  margin: 0.015625rem;
+  position: relative;
+}
+
+.content ul li img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.content ul li a {
+  width: 100%;
+  height: 100%;
+  background: rgba(123, 123, 123, 0.2);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#337b7b7b', endColorstr='#337b7b7b');
+  color: #FFFFFF;
+  font-size: 0.46875rem;
+  text-align: center;
+  line-height: 5rem;
+  z-index: 100;
+  position: absolute;
+}
+
+:root .content ul li a {
+  -webkit-filter: none\9;
+  filter: none\9;
+}

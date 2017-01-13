@@ -1,0 +1,409 @@
+@charset "UTF-8";
+
+@import url(../src/css/mobile.css);
+
+@import url(../src/font/iconfont.css);
+
+@import url(../src/css/myiscroll.css);
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-size: 0.25rem;
+  font-family: "微软雅黑";
+}
+
+header {
+  z-index: 100;
+  width: 8.90625rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 0 0.546875rem;
+  height: 1.40625rem;
+  background: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+header h2 {
+  width: 100%;
+  height: 1.40625rem;
+  text-align: center;
+  line-height: 1.40625rem;
+  font-size: 0.5625rem;
+}
+
+header .icon {
+  font-size: 0.53125rem;
+  color: #000;
+}
+
+section {
+  padding-top: 1.40625rem;
+  padding-bottom: 1.5625rem;
+}
+
+section .object {
+  height: 10rem;
+  width: 10rem;
+  position: relative;
+}
+
+section .object video {
+  height: 10rem;
+  width: 10rem;
+  top: 0;
+  left: 0;
+  position: absolute;
+  z-index: 9;
+}
+
+section .object img {
+  top: 0;
+  left: 0;
+  position: absolute;
+  z-index: 10;
+  width: 10rem;
+  height: 10rem;
+}
+
+section .object .img1 {
+  display: none;
+}
+
+section .object .icon1 {
+  display: none;
+}
+
+section .object .icon {
+  font-size: 1.71875rem;
+  color: #cb5a29;
+  position: absolute;
+  z-index: 11;
+  left: 5rem;
+  top: 5rem;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+section .introduce {
+  background: #fff;
+}
+
+section .introduce dt {
+  padding: 0.28125rem 0.46875rem;
+}
+
+section .introduce dt h3 {
+  height: 1.03125rem;
+  line-height: 1.03125rem;
+  font-size: 0.53125rem;
+}
+
+section .introduce dt span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: 0.40625rem;
+  height: 0.828125rem;
+  line-height: 0.828125rem;
+  width: 1.71875rem;
+  color: #959595;
+}
+
+section .introduce dt span .iconfont {
+  color: #d7d7d7;
+  font-size: 0.46875rem;
+}
+
+section .introduce dd {
+  padding: 0.375rem 0.46875rem 0.9375rem;
+  font-size: 0.40625rem;
+  line-height: 0.484375rem;
+}
+
+section h4 {
+  height: 1.40625rem;
+  margin: 0.46875rem 0;
+  padding-left: 1.6875rem;
+  font-size: 0.4375rem;
+  color: #ff5d31;
+  line-height: 1.40625rem;
+  position: relative;
+  background: #fff;
+}
+
+section h4 .iconfont {
+  width: 0.78125rem;
+  height: 0.78125rem;
+  border-radius: 50%;
+  font-size: 0.46875rem;
+  color: #fff;
+  background: #ff5d31;
+  position: absolute;
+  left: 0.46875rem;
+  top: 0.3125rem;
+  text-align: center;
+  line-height: 0.78125rem;
+}
+
+section .foodready {
+  line-height: 1.40625rem;
+  font-size: 0.4375rem;
+  background: #fff;
+  color: #4e4e4e;
+}
+
+section .foodready li {
+  padding-left: 1.09375rem;
+  position: relative;
+}
+
+section .foodready li .iconfont {
+  font-size: 0.40625rem;
+  top: 0.5rem;
+  left: 0.5rem;
+  position: absolute;
+  line-height: 0.40625rem;
+}
+
+section .foodready li span em {
+  font-style: normal;
+  color: #ababab;
+  padding-left: 0.15625rem;
+}
+
+section .foodready .ingrediengs {
+  padding: 0.03125rem 0 0 0;
+  text-align: center;
+}
+
+section .foodready .ingrediengs h5 {
+  height: 0.9375rem;
+  line-height: 0.9375rem;
+  font-size: 0.46875rem;
+  font-weight: 900;
+}
+
+section .foodready .ingrediengs p {
+  height: 0.84375rem;
+  line-height: 0.84375rem;
+}
+
+section .steps {
+  padding-bottom: 0.625rem;
+  background: #fff;
+}
+
+section .steps .cooktem,
+section .steps .cookstep {
+  padding: 0.15625rem 0 0.15625rem 0.46875rem;
+  font-size: 0.4375rem;
+  line-height: 0.546875rem;
+}
+
+section .steps .img {
+  width: 10rem;
+  height: 6.5625rem;
+}
+
+section .steps .img img {
+  width: 100%;
+  height: 100%;
+}
+
+section .comment {
+  margin-top: 0.46875rem;
+  background: #fff;
+}
+
+section .comment h2 {
+  height: 1.25rem;
+  line-height: 1.25rem;
+  font-size: 0.5rem;
+  padding-left: 1.40625rem;
+  position: relative;
+  font-weight: 900;
+}
+
+section .comment h2 .iconfont {
+  font-size: 0.5rem;
+  position: absolute;
+  left: 0.46875rem;
+  top: 0.390625rem;
+  line-height: 0.5rem;
+}
+
+section .comment dl {
+  padding-top: 0.546875rem;
+  margin-bottom: 0.234375rem;
+  position: relative;
+  padding-left: 1.671875rem;
+}
+
+section .comment dl dt {
+  position: absolute;
+  top: 0.546875rem;
+  left: 0.390625rem;
+  height: 1.015625rem;
+  width: 1.015625rem;
+}
+
+section .comment dl dt img {
+  width: 100%;
+  height: 100%;
+}
+
+section .comment dl dd {
+  height: 1.015625rem;
+  line-height: 1.015625rem;
+  font-size: 0.4375rem;
+  font-weight: 900;
+}
+
+section .comment dl .pl {
+  height: 0.546875rem;
+  line-height: 0.546875rem;
+}
+
+section .comment dl .img {
+  width: 1.875rem;
+  height: 1.875rem;
+  padding-top: 0.46875rem;
+}
+
+section .comment dl .img img {
+  width: 100%;
+  height: 100%;
+}
+
+section .comment dl .others {
+  font-weight: 100;
+  width: 7.96875rem;
+  height: 0.859375rem;
+  border-bottom: 0.015625rem solid #f4f4f4;
+  line-height: 0.859375rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  color: #c4c4c4;
+}
+
+section .comment dl .others p {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  width: 2.5rem;
+}
+
+section .comment dl .others p .iconfont {
+  font-size: 0.375rem;
+  padding-right: 0.15625rem;
+}
+
+section .comment dl .others p em {
+  font-style: normal;
+  font-size: 0.375rem;
+}
+
+section .comment dl .reply {
+  font-weight: 100;
+  line-height: 1.25rem;
+  font-size: 0.40625rem;
+}
+
+section .comment dl .reply span {
+  color: #ff8868;
+}
+
+section .comment dl .reply a {
+  color: #969696;
+}
+
+footer {
+  width: 9.09375rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 1.5625rem;
+  line-height: 1.5625rem;
+  background: #fff;
+  padding: 0 0.3125rem 0 0.59375rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+footer p {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 3.125rem;
+}
+
+footer p .iconfont {
+  font-size: 0.546875rem;
+}
+
+footer input {
+  width: 5.40625rem;
+  height: 0.9375rem;
+  width: 5.09375rem;
+  height: 0.9375rem;
+  padding-left: 0.3125rem;
+  line-height: 0.9375rem;
+  border: none;
+  display: block;
+  background: #f8f8f8;
+  color: #bebebe;
+}

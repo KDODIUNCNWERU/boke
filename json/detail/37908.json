@@ -1,0 +1,138 @@
+{
+    "id": 37908,
+    "title": "三文魚青瓜花壽司卷",
+    "description": "一般壽司卷物都是圓形的，其實只要把食材擺位改變一下，把卷物做成水滴狀，拼起來就變成漂亮的花狀壽司。\r\n",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160619_2/37908.mp4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160502/63999eae-0f1a-4983-b715-f1f9750504b4",
+    "clickCount": 28293,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2016-05-08 00:00:00.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "鹽 ",
+            "cnt": "3",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "胡椒粉",
+            "cnt": "3",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞蛋",
+            "cnt": "3",
+            "unit": "隻",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白飯",
+            "cnt": "300",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "細砂糖",
+            "cnt": "20",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "青瓜",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "壽司醋 ",
+            "cnt": "3",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "刺身級三文魚",
+            "cnt": "200",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "壽司紫菜",
+            "cnt": "4",
+            "unit": "片",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "白飯中加入壽司醋及砂糖拌勻",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160502/35260b7a-af06-4863-b476-19cdc88cbbce",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "三文魚及青瓜切條",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160502/6fdb702f-ad62-41d7-b999-9fbb6d968272",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "將雞蛋打發，加鹽及胡椒粉調味",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160502/d61633c5-4c95-4ed1-8f10-44ef1d79028c",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "用中火燒熱鍋，加少許油，加入蛋漿煎成蛋皮，盛起",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160502/87085470-a93e-4cca-a769-16cd3c42a8a7",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "竹蓆上放上紫菜，將白飯鋪滿紫菜一半位置",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160502/0fed03b5-3e5d-45fe-ab01-af2a74a621e3",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "將蛋皮放在白飯上，再放上三文魚。將青瓜放在白飯邊沿位置",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160502/d68a1ea2-3e1b-40df-8521-4df59fd0ce32",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "將蛋皮放在白飯上，再放上三文魚。將青瓜放在白飯邊沿位置",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160502/4ae78fbc-e37f-4182-9b71-901365410479",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "捲起竹蓆，將壽司捲成水滴狀",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160502/73cf5c8e-6708-4f10-b198-4d811339b90c",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "將壽司切件即成",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160502/abdefd1c-b072-4b61-981b-fab37d2eba53",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=37908&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37908&languageId=2&mainland=2&ver=2&regionCode=156"
+}

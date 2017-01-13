@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="../css/recipes.css"/>
+	</head>
+	<body>	
+		<header id="header"></header>
+		
+		<div id="wrapper">
+			<!-- scroller 滚动区域-->
+			<div id="scroller">     
+				<div id="pullDown">
+					<span class="pullDownIcon"></span>
+					<span class="pullDownLabel">下拉刷新...</span>
+				</div>
+				<ul id="thelist">
+					<!--<li>
+						<img src="../img/sort2.png" />
+						<span class="calendar">
+							<span class="icon iconfont icon-rili clearfix"></span>
+							<span class="date clearfix">14/12</span>
+						</span>
+						<h2>冲绳塔可饭</h2>
+						<p>说到塔可饭，大家可能会想到墨西哥，但其实他的起源是日本</p>
+						<div class="operation">
+							<div class="time com">
+								<span class="icon iconfont icon-vip"></span>
+								<span class="timedata data">30分钟</span>
+							</div>
+							<div class="views com">
+								<span class="icon iconfont icon-chakan"></span>
+								<span class="viewstimes data">2563</span>
+							</div>
+							<div class="share com">
+								<span class="icon iconfont icon-fenxiang1"></span>
+								<span class="sharetimes data">6</span>
+							</div>
+						</div>
+					</li>
+					<li>
+						<img src="../img/sort2.png" />
+						<span class="calendar">
+							<span class="icon iconfont icon-rili clearfix"></span>
+							<span class="date clearfix">14/12</span>
+						</span>
+						<h2>冲绳塔可饭</h2>
+						<p>说到塔可饭，大家可能会想到墨西哥，但其实他的起源是日本</p>
+						<div class="operation">
+							<div class="time com">
+								<span class="icon iconfont icon-vip"></span>
+								<span class="timedata data">30分钟</span>
+							</div>
+							<div class="views com">
+								<span class="icon iconfont icon-chakan"></span>
+								<span class="viewstimes data">2563</span>
+							</div>
+							<div class="share com">
+								<span class="icon iconfont icon-fenxiang1"></span>
+								<span class="sharetimes data">6</span>
+							</div>
+						</div>
+					</li>-->
+				</ul>
+				<ul id="thelist1">
+					<!--<li>
+						<dl>
+							<dt><img src="../img/sort2.png"/></dt>
+							<dd>
+								<h2>简易焦糖酱</h2>
+								<p>说到焦糖酱，大家可能会想起日本的</p>
+								<span class="icon iconfont icon-xihuan clearfix"></span>
+								<span class="icon iconfont icon-chakan clearfix"></span>
+								<span class="num clearfix">4512</span>
+							</dd>
+						</dl>
+					</li>
+					<li>
+						<dl>
+							<dt><img src="../img/sort2.png"/></dt>
+							<dd>
+								<h2>简易焦糖酱</h2>
+								<p>说到焦糖酱，大家可能会想起日本的</p>
+								<span class="icon iconfont icon-xihuan clearfix"></span>
+								<span class="icon iconfont icon-chakan clearfix"></span>
+								<span class="num clearfix">4512</span>
+							</dd>
+						</dl>
+					</li>-->
+				</ul>
+				<div id="pullUp">
+					<span class="pullUpIcon"></span>
+					<span class="pullUpLabel">加载更多...</span>
+				</div>
+			</div>
+		</div>
+		
+		<div id="footer"></div>
+	</body>
+	<script src="../src/js/sea.js"></script>
+	<script>
+		// 调用指定模块
+		// 相对于sea.js   ../js/mysea
+		// 相对于页面              js/mysea
+		// 相当于seajs处于的文件夹  lib   对
+		seajs.use(["../js/recipes","../js/zcmmyiscroll"],function(app,iscroll){
+			// app =={init:P._init}
+			app.init();
+			app.header();
+			app.footer();
+			iscroll.init();			
+		})
+	</script>
+</html>

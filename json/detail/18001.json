@@ -1,0 +1,85 @@
+{
+    "id": 18001,
+    "title": "客家清燉豬肉湯",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_18001_15131.JPG",
+    "clickCount": 567,
+    "shareCount": 0,
+    "maketime": "1.5小時",
+    "releaseDate": "2014-02-04 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "水",
+            "cnt": "1000",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "薑",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "豬腩肉",
+            "cnt": "1",
+            "unit": "包",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅棗",
+            "cnt": "7",
+            "unit": "粒",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "將紅棗泡軟",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_32841_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "豬肉切成大塊",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_32841_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "在瓦罐中加入食材和滾水",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_32851_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "放入煮滾了水的大鍋中蒸2小時",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_32851_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "加入鹽調味",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_32861_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "趁熱食用",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_32861_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=18001&languageId=2&mainland=2&ver=2&regionCode=156"
+}

@@ -1,0 +1,125 @@
+{
+    "id": 25041,
+    "title": "自家製蒜蓉牛油燒粟米",
+    "description": "",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160619_2/25041.mp4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_25041_24711.jpg",
+    "clickCount": 648,
+    "shareCount": 0,
+    "maketime": "1.5小時",
+    "releaseDate": "2014-06-26 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "番茜",
+            "cnt": "",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "羅勒",
+            "cnt": "3",
+            "unit": "朵",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "牛油",
+            "cnt": "4",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "黑胡椒",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "奧勒岡",
+            "cnt": "1",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜(刴碎)",
+            "cnt": "1",
+            "unit": "瓣",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "新鮮粟米",
+            "cnt": "4",
+            "unit": "條",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "牛油(室溫)",
+            "cnt": "4",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "把蒜切碎",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_57571_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "把歐芹切碎",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_57571_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "用叉將所有材料打發及拌勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_57581_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "把牛油放在保鮮紙上，捲起並兩端打結，儲存於雪櫃內",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_57581_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "洗淨粟米後，放在焗架上",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_57591_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "在粟米掃上牛油",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_57591_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "先預熱焗爐200度,焗15-20分鐘至金黃",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_57601_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "把蒜蓉牛油切粒",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_57601_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=25041&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=25041&languageId=2&mainland=2&ver=2&regionCode=156"
+}

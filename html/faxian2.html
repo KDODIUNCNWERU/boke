@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>发现二级页面</title>
+		<link rel="stylesheet" type="text/css" href="../css/faxian2.css"/>
+		
+	</head>
+	<body ng-app="myapp" ng-controller="myCtrl" >
+		<!--imgUrl:"http://fpf666.applinzi.com/img/f1.jpg"-->
+		<header>
+			<!--<span>←</span>-->
+			<a href="javascript:history.go(-1);">←</a>
+			<img src="../img/icon.png"/>
+		</header>
+		<!--<div id="videoContainer">
+			<video src="../img/a.mp4" 
+				controls="controls"
+				id="video">
+				该浏览器不支持视频播放
+			</video>
+			<img src="../img/0.jpg" id="img"/> 
+			
+			<a href="javascript:void(0)" class="iconfont play" onclick="play()" id="playbtn"></a>
+		</div>-->
+		<div class="content">
+			<a href="vedio_1.html">
+				<img src="../img/0.jpg" alt="" />
+                <i class="icon iconfont icon-bofang"></i>
+			</a>
+		</div>
+		<div class="explain">
+			<div >
+				<b>薯条烤肠做法大全</b>
+				<i class="icon iconfont icon-ylhz222"></i>
+				<span>21542</span>
+			</div>	
+		</div>
+		<div class="logo">
+			<img src="../img/logo_1.png"/>
+		</div>
+		<div class="food">
+			<div class="title">
+				<i class="icon iconfont icon-icon_guo1"></i>
+				<span>食材</span>
+			</div>
+			
+			<table>
+				<thead>
+					
+				</thead>
+				<tbody>
+					<tr ng-repeat="food in foodMaterial">
+						<td ng-bind="food.name"></td>
+						<td ng-bind="food.dosage"></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		
+		<div class="menu">
+			<div class="title">
+                <i class="icon iconfont icon-caipin"></i>
+				<span>烹饪步骤</span>
+			</div>
+			
+			<dl ng-repeat="e in emp">
+				<!--<dt><img ng-src="imgUrl" /></dt>-->
+				<dt><img ng-src="{{e.imgUrl}}"/></dt>
+				<dd>
+					<span ng-bind="e.step"></span>
+					<p ng-bind="e.para"></p>
+				</dd>
+			</dl>
+			
+	
+			
+		</div>
+		
+		<div class="submitComment">
+            <i class="icon iconfont icon-huifu"></i>
+			<span>评论</span>
+		</div>
+		
+		<div class="textarea">
+			<textarea class="main">
+				
+			</textarea>
+			<div class="mit">
+				<input type="button" value="发表评论" />
+			</div>
+		</div>
+		<div class="comment">
+				<h2>评论<i class="iconfont">&#xe63c</i></h2>
+				<dl>
+					<dt><img src="../img/icon1.png"/></dt>
+					<dd class="ID">伙夫的心意</dd>
+					<dd class="pl">伙夫的心意</dd>
+					<dd class="img"><img src="../img/pl.png"/></dd>
+					<dd class="others">
+						<p>
+							<b><i class="iconfont">&#xe613</i><em>0</em></b>
+							<b><i class="iconfont">&#xe603</i><em>回复</em></b>
+						</p>
+						<span>2016/07/23&nbsp 20:12</span>
+					</dd>
+					<dd class="reply"><span>小煮</span><a href="javascript::">：伙夫，你的心意到了就行</a></dd>
+				</dl>
+				<dl>
+					<dt><img src="../img/icon1.png"/></dt>
+					<dd class="ID">伙夫的心意</dd>
+					<dd class="pl">伙夫的心意</dd>
+					<dd class="img"><img src="../img/pl.png"/></dd>
+					<dd class="others">
+						<p>
+							<b><i class="iconfont">&#xe613</i><em>0</em></b>
+							<b><i class="iconfont">&#xe603</i><em>回复</em></b>
+						</p>
+						<span>2016/07/23&nbsp 20:12</span>
+					</dd>
+					<dd class="reply"><span>小煮</span><a href="javascript::">：伙夫，你的心意到了就行</a></dd>
+				</dl>
+			</div>
+			<footer>
+				<p>
+					<i class="iconfont">&#xe62a</i>
+					<i class="iconfont">&#xe639</i>
+					<i class="iconfont">&#xe603</i>
+				</p>
+				<input type="text" placeholder="评论" />
+			</footer>			
+		<script src="../src/js/sea.js" type="text/javascript" charset="utf-8"></script>
+		<script>
+			// 调用指定模块
+			// 相对于sea.js   ../js/mysea
+			// 相对于页面              js/mysea
+			// 相当于seajs处于的文件夹  lib   对
+			seajs.use(["../js/faxian2","flexible"],function(app){
+				// app =={init:P._init}
+				app.init();
+			})
+		</script>
+	</body>
+</html>

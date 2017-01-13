@@ -1,0 +1,163 @@
+{
+    "id": 1608,
+    "title": "自家製牛肉腸粉",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1608_1974.jpg",
+    "clickCount": 1149,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2013-04-29 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "冰糖",
+            "cnt": "25",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "水",
+            "cnt": "250",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鹽 ",
+            "cnt": "2",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "牛冧肉",
+            "cnt": "100",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "豉油",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "粟粉",
+            "cnt": "5",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "米粉",
+            "cnt": "2",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞粉",
+            "cnt": "",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "芽菜",
+            "cnt": "80",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒸盤",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "食材",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7172_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "牛肉醃製好",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7172_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "同芽菜一齊拌勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7174_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "將所有腸粉材料混在一起攪勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7174_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "把甜豉油材料勻合",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7175_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "把油塗在蒸盤上",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7175_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "然後倒粉漿在蒸盤中",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7176_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "在鑊中加水隔水蒸23分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7176_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "加上牛肉芽菜馅料然后捲起",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7177_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "加上牛肉芽菜馅料然后捲起",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7177_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "再隔水用大火蒸2分钟",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7178_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 12,
+            "content": "淋上酱汁，即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7178_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1608&languageId=2&mainland=2&ver=2&regionCode=156"
+}

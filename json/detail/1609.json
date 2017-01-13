@@ -1,0 +1,170 @@
+{
+    "id": 1609,
+    "title": "自家製鮮蝦腸粉",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1609_1975.jpg",
+    "clickCount": 1354,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2013-04-29 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "冰糖",
+            "cnt": "25",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "水",
+            "cnt": "250",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鹽 ",
+            "cnt": "4",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "胡椒粉",
+            "cnt": "2",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紹興酒",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "豉油",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "粟粉",
+            "cnt": "5",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蝦仁",
+            "cnt": "10",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "芽菜",
+            "cnt": "40",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "韭黃",
+            "cnt": "40",
+            "unit": "條",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒸盤",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "食材",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7181_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "蝦仁醃製好。同韭黃和芽菜一齊拌勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7181_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "將所有腸粉材料混在一起攪勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7183_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "把甜豉油材料勻合，用中火把冰糖煮溶",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7183_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "把油塗在蒸盤上",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7184_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "然後倒粉漿在蒸盤中",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7184_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "在鑊中加水隔水蒸23分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7185_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "離火後把粉皮放上工作板上，加上蝦仁餡料然後捲起",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7185_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "再隔水用大火蒸2分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7186_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "裝盤",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7186_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "淋上醬汁",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7188_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 12,
+            "content": "即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_7188_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1609&languageId=2&mainland=2&ver=2&regionCode=156"
+}

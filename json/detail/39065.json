@@ -1,0 +1,107 @@
+{
+    "id": 39065,
+    "title": "西班牙辣肉腸釀蘑菇",
+    "description": "說到西班牙經典美食，必不可忽略味道鹹香的辣肉腸。將辣肉腸混入洋蔥和芝士，配上多汁蘑菇，口感豐富，是非常易做的一口小食。",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160930/d65a3e64-9667-42db-90f2-0cfafd790bac",
+    "indexUrl": "",
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160923/ee056675-a61e-44c6-81aa-3000742bb5f1",
+    "clickCount": 7308,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2016-10-04 00:00:00.0",
+    "ingredientImageUrl": "http://pic.daydaycook.com/production/images/20160923/dd5818b7-c425-4413-baa7-4b220beae406",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "洋蔥",
+            "cnt": "1/4",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "黑胡椒",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "麵包糠",
+            "cnt": "2",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "番茜碎",
+            "cnt": "1",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "西班牙辣肉腸",
+            "cnt": "70",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白蘑菇",
+            "cnt": "16",
+            "unit": "粒",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "忌廉芝士",
+            "cnt": "50",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "水牛芝士碎",
+            "cnt": "40",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "預熱焗爐至攝氏200度；焗盤鋪上牛油紙備用；將蘑菇去蒂，保留蘑菇蒂；洋蔥及辣肉腸切粒備用；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160923/5c73292f-3725-4164-b17e-c0566cc90295",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "將洋蔥、辣肉腸粒、蘑菇蒂及忌廉芝士用攪拌機攪碎，倒到一個大碗；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160923/2caf8f94-f430-4731-8e7d-279cb591ab59",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "加入麵包糠及番茜碎拌勻至漿狀；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160923/47d3bdbe-f784-4ceb-b646-ea1da7b24100",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "釀入蘑菇，灑上水牛芝士碎及黑胡椒；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160923/0b980993-d0e2-4561-9b6f-eb3109aec0a3",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "放入焗爐焗12-15分鐘至表面金黃色，即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160923/59555e70-2bb4-4f8c-b14d-abc29d796b65",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=39065&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=39065&languageId=2&mainland=2&ver=2&regionCode=156"
+}

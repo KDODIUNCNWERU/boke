@@ -1,0 +1,113 @@
+{
+    "id": 37671,
+    "title": "百香果蟹肉塔",
+    "description": "百香果也叫做愛情果。相信用百香果做出來的料理，應該是一份最有味道的告白吧！濃郁的水果香味加上新鮮的蟹肉，一定會讓這一餐表達出你的愛意。\r\n",
+    "detailsUrl": null,
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20161021/56eacccb-6133-40b2-9a2e-ccba1fb890b2",
+    "clickCount": 17034,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2016-10-21 15:06:54.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "麵包糠",
+            "cnt": "20",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "沙律醬",
+            "cnt": "40",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "魚籽",
+            "cnt": "30",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蟹柳",
+            "cnt": "4",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "海苔粉",
+            "cnt": "2",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蟹肉",
+            "cnt": "30",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "百香果",
+            "cnt": "2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "柴魚片",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "焗爐預熱180℃。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160612/3bffa78f-1818-442c-bb65-afdbac4dc6ae",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "將百香果洗淨，削平底部，對半切開。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160612/b6cde558-6558-4987-bd26-59164f19ec01",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "蟹肉棒、蟹肉、30g沙拉醬、魚籽、麵包屑拌勻調成餡料。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160612/51baffae-7896-41ac-9cf9-600bc24fdc95",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "將拌好的料，用冰淇淋勺子挖成小球，放在百香果上。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160612/8ab47521-4034-4f86-a9ab-64b36cc9862f",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "放入焗爐烚至表面微焦，出爐裝盤，撒上海苔粉。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160612/637d39fa-a29d-45d4-b114-25d42036db02",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "在頂部擠上少許沙律醬，放上柴魚片，即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160612/8ab24a04-8f4b-4973-a488-60ce3163a4dc",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37671&languageId=2&mainland=2&ver=2&regionCode=156"
+}

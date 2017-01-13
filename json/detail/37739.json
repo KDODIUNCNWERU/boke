@@ -1,0 +1,86 @@
+{
+    "id": 37739,
+    "title": "氣球布丁",
+    "description": "在日本人氣爆燈的氣球布丁，進食前將氣球刺穿，圓滾滾的布丁就會走出來，原來自己在家也可以做到！\r\n",
+    "detailsUrl": null,
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160829/97627fc0-5e5b-46e2-bc10-f07283e9d8a3",
+    "clickCount": 61919,
+    "shareCount": 0,
+    "maketime": "10分鐘",
+    "releaseDate": "2016-02-05 00:00:00.0",
+    "ingredientImageUrl": "http://pic.daydaycook.com/production/images/20160829/40a61be4-77e6-4fa3-8ca3-65a73fdcfca2",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "牛奶",
+            "cnt": "1000",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "淡忌廉",
+            "cnt": "300",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "砂糖",
+            "cnt": "100",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "魚膠片",
+            "cnt": "2",
+            "unit": "张",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "小氣球",
+            "cnt": "5",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "魚膠片浸在凍水中至軟身。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/73be7b23-5c01-49fd-89d9-7211a23290f0",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "鍋裡加入牛奶、淡忌廉及砂糖加熱。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/d31aa419-963f-4311-ab41-aa505ce0d366",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "加入已浸軟的魚膠片拌勻，放涼。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/f1002622-cf85-465b-a09b-60f110da7e0f",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "將混合物倒入膠樽內，然後倒進氣球中，封口。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/9981bbd1-e7e4-4e95-9ca5-8d0e1e6decfe",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "將氣球浸入凍水中，放入雪櫃冷藏2小時至凝固。取出，用牙簽刺穿氣球即可享用。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160613/56372300-130b-48f3-b43b-be39e97366b1",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37739&languageId=2&mainland=2&ver=2&regionCode=156"
+}

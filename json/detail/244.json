@@ -1,0 +1,187 @@
+{
+    "id": 244,
+    "title": "菠蘿咕嚕肉",
+    "description": "菠蘿咕嚕肉是中菜之中最有名的菜式之一。世界各地的人都會喜歡食咕嚕肉。這次我們跟大家分享一個傳統的菠蘿咕嚕肉食譜。以後就可以簡單地在家中享受到這一道著名的家常菜了。\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_244_299.JPG",
+    "clickCount": 2650,
+    "shareCount": 0,
+    "maketime": "1小時",
+    "releaseDate": "2012-02-11 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "鹽 ",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "粟粉",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞蛋",
+            "cnt": "1",
+            "unit": "隻",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "番茄醬",
+            "cnt": "2",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "砂糖",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蔥",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "中筋粉",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "排骨",
+            "cnt": "250",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "甜酸醬",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鳳梨",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "醬料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_742_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "豬肉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_742_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "豬肉切成塊",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_744_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "加入雞蛋、 麵粉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_744_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "準備好煎炸",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_745_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "煎炸直到金黃色",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_745_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "炸好的豬肉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_746_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "準備蔥，鳳梨",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_746_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "炒香蔥，鳳梨",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_747_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "添加番茄醬",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_747_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "添加鳳梨汁",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_748_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 12,
+            "content": "甜酸汁",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_748_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 13,
+            "content": "加糖",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_749_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 14,
+            "content": "添加豬肉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_749_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 15,
+            "content": "甜酸骨",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_750_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 16,
+            "content": "甜酸骨",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_750_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=244&languageId=2&mainland=2&ver=2&regionCode=156"
+}

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>发现</title>
+		<link rel="stylesheet" type="text/css" href="../css/faxian.css"/>
+		
+	</head>
+	<body>
+		<header></header>
+
+			
+
+		<!--<div id="wrapper">
+       
+        <div id="scroller">
+            <div id="pullDown">
+                <span class="pullDownIcon"></span>
+                <span class="pullDownLabel">下拉刷新...</span>
+            </div>-->
+			<div id="thelist" class="produst-display">
+                <div class="swiper-banner">
+                    <div class="swiper-container" id="index-banner">
+                        <div class="swiper-wrapper" id="addslide">
+                            <div class="swiper-slide">
+                                <img src="../img/2.jpg">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../img/0.jpg">  
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../img/1.jpg">
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+
+            </div>
+            
+		<div class="content">
+			<ul>
+				<li><img src="../img/6.jpg"/><a href="food_detail.html?id=18001">#烘培</a></li>
+				<li><img src="../img/1.jpg"/><a href="food_detail.html?id=1017">#早餐</a></li>
+				<li><img src="../img/0.jpg"/><a href="food_detail.html?id=1354">#便当</a></li>
+				<li><img src="../img/5.jpg"/><a href="food_detail.html?id=1360">#晚餐</a></li>
+				<li><img src="../img/3.jpg"/><a href="food_detail.html?id=1374">#下午茶</a></li>
+				<li><img src="../img/4.jpg"/><a href="food_detail.html?id=1400">#瘦身</a></li>
+				<li><img src="../img/sort2.png"/><a href="food_detail.html?id=1412">#饮品</a></li>
+				<li><img src="../img/7.jpg"/><a href="food_detail.html?id=1417">#厨房</a></li>
+			</ul>
+		</div>
+		
+		<!--<div id="pullUp" style="display: none">
+                <span class="pullUpIcon"></span>
+                <span class="pullUpLabel">加载更多...</span>
+            </div>
+           </div>
+          </div>
+        </section>-->
+	<footer></footer>
+		
+		
+		<script src="../src/js/sea.js" type="text/javascript" charset="utf-8"></script>
+		<script>
+			// 调用指定模块
+			// 相对于sea.js   ../js/mysea
+			// 相对于页面              js/mysea
+			// 相当于seajs处于的文件夹  lib   对
+			seajs.use(["../js/faxian","flexible"],function(app){
+				// app =={init:P._init}
+				app.init();
+			})
+		</script>
+	</body>
+</html>

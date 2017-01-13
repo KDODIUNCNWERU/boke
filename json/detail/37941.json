@@ -1,0 +1,87 @@
+{
+    "id": 37941,
+    "title": "覆盆子檸檬莫西多",
+    "description": "每到夜店常見飲品, 周末在家與閨蜜小聚，不如自己動手來一杯，小編今天教你用新鮮的水果搭配自製糖漿，來自製一款養顏無酒精的紅桑子檸檬莫西多。\r\n",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160513/6d244c04-cc77-4702-b2a6-f08f00669497",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160513/1e113abc-01dc-447d-aca6-d886dffc95ea",
+    "clickCount": 59192,
+    "shareCount": 0,
+    "maketime": "10分鐘",
+    "releaseDate": "2016-05-13 00:00:00.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "薄荷葉",
+            "cnt": "8",
+            "unit": "朵",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "青檸",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "覆盆子",
+            "cnt": "17",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "自製檸檬糖漿",
+            "cnt": "50",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "冰塊",
+            "cnt": "160",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蘇打水",
+            "cnt": "125",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "取一小量杯，放入15個覆盆在玻璃杯底（約500毫升容量）搗成泥漿，倒入自製檸檬糖漿拌勻。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160513/eda41a5d-e760-49af-b6fd-bdb921503280",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "取一青檸切成檸檬角備用。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160513/f401d61f-5dc2-4704-bae5-169147b730d6",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "裝入1/2杯冰塊，再放入一半薄荷葉繼續裝滿冰塊。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160513/94b82331-86a1-4eb7-91b8-2a51b17eb1c5",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "倒入蘇打水至九分滿，放上2個新鮮覆盆子及薄荷葉裝飾即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160513/c49a0594-8788-4206-a5c2-d8f88c55507e",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=37941&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37941&languageId=2&mainland=2&ver=2&regionCode=156"
+}

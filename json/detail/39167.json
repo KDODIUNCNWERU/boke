@@ -1,0 +1,147 @@
+{
+    "id": 39167,
+    "title": "芝心雞肉餅",
+    "description": "用鬆餅模做外國非常流行的「西式肉餅」其實既簡便又吸引！雞肉混入洋蔥和蘑菇令肉餅更多汁，包裹著半溶水牛芝士粒，配上與雞肉特別搭的龍蒿，進一步提升肉餅味道層次。",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20161010/a63932f1-675b-49e4-b159-5df3312d5804",
+    "indexUrl": "",
+    "imageUrl": "http://pic.daydaycook.com/production/images/20161010/6fc0821b-80e5-4323-a2f7-727be6f030ab",
+    "clickCount": 12490,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2016-10-15 00:00:00.0",
+    "ingredientImageUrl": "http://pic.daydaycook.com/production/images/20161010/ef53e679-1f84-4cb0-9926-f2dc7ea87faf",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "洋蔥",
+            "cnt": "1/4",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "麵包糠",
+            "cnt": "3",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "磨菇",
+            "cnt": "3",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "橄欖油",
+            "cnt": "2",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜蓉",
+            "cnt": "1/2",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蛋液",
+            "cnt": "1/2",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鹽及黑胡椒",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "免治雞肉",
+            "cnt": "350",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "水牛芝士粒",
+            "cnt": "12",
+            "unit": "粒",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "龍蒿碎 ",
+            "cnt": "1/2",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "巴馬臣芝士碎",
+            "cnt": "4",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "6連圓形鬆餅模(工具)",
+            "cnt": "",
+            "unit": "適量",
+            "type": "99",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "預熱焗爐至攝氏200度，6連圓形鬆餅模噴上食用噴油備用。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20161010/69ff5177-4b6a-4295-a552-34109092feac",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "將蘑菇及洋蔥切碎備用。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20161010/8eb33336-c28b-4bac-bdbe-b1a310f01c7f",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "將橄欖油、2湯匙巴馬臣芝士碎及2湯匙麵包糠混合備用。 ",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20161010/310791bb-90ff-4713-88aa-a333b607ff56",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "將免治雞肉、蘑菇碎、洋蔥碎、餘下的巴馬臣芝士碎、餘下的麵包糠 、蒜蓉、蛋液、龍蒿碎、鹽及黑胡椒混合。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20161010/ee4f984c-78af-4806-a940-890bda49c684",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "將雞肉平均填入鬆餅模，用匙羹將中間壓凹，放入水牛芝士粒，填入雞肉封口。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20161010/83c7e58b-bcea-42c4-b452-4229cc878da3",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "灑上芝士麵包糠混合物，輕輕按壓。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20161010/0dc786a5-3c5e-466c-bef8-eb21a86fde2c",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "放入焗爐焗約20-25分鐘或至雞肉熟透及表面至金黃色，即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20161010/76bd2fd8-fd93-4373-91fc-569dfb651c72",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=39167&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=39167&languageId=2&mainland=2&ver=2&regionCode=156"
+}

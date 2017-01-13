@@ -1,0 +1,142 @@
+{
+    "id": 300,
+    "title": "蔬菜泰式綠咖喱",
+    "description": "咖哩不但可口而且做法簡單， 今次我們要做的這款蔬菜咖哩就是用上<a href=\"http://www.homegrownfoods.com.hk\" target=\"_blank\">homegrown foods</a>的新鮮有機蔬菜， 加倍健康。\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_300_406.JPG",
+    "clickCount": 870,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2012-03-01 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "水",
+            "cnt": "300",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "洋蔥",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "椰汁",
+            "cnt": "100",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "有機薯仔",
+            "cnt": "3",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "有機紅蘿蔔",
+            "cnt": "5",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "意大利青瓜",
+            "cnt": "1",
+            "unit": "隻",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "咖哩汁",
+            "cnt": "1",
+            "unit": "杯",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "有機蔬菜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1124_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "泰國咖喱",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1124_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "洗，準備蔬菜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1129_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "切洋蔥",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1129_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "炒洋蔥",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1130_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "添加其他蔬菜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1130_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "其他蔬菜拌勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1131_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "添加咖喱",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1131_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "蓋上蓋",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1132_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "添加椰奶",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1132_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "泰國綠咖喱",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1133_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 12,
+            "content": "泰國綠咖喱",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_1133_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=300&languageId=2&mainland=2&ver=2&regionCode=156"
+}

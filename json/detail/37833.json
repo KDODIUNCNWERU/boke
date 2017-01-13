@@ -1,0 +1,81 @@
+{
+    "id": 37833,
+    "title": "水果魔方",
+    "description": "如何將普通的水果沙拉做到令人歎為觀止？這道水果魔方就是答案。五顏六色的水果加上強迫症一般的魔方造型，絕對讓它成為聚會餐桌上的焦點。配上優酪乳享用，味道也非常受歡迎哦。\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160329/b73b1114-594e-4fe8-b846-69f49e37545f",
+    "clickCount": 83419,
+    "shareCount": 0,
+    "maketime": "1小時",
+    "releaseDate": "2016-03-29 00:00:00.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "原味乳酪",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "薄荷葉",
+            "cnt": "1",
+            "unit": "朵",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "火龍果",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "奇異果",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "西瓜",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "木瓜",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "將所有水果，去皮切成相同大小的正方形；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160329/b0d68095-194f-4c26-a09e-a9cc6516bb8b",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "相錯擺成魔方形狀；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160329/a544588b-fb25-4a09-bfd6-510429485a47",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "淋上優酪乳，用薄荷葉裝飾，即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160329/6ae186f2-b6c6-4f5d-b7fa-b9d04bed3a5c",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37833&languageId=2&mainland=2&ver=2&regionCode=156"
+}

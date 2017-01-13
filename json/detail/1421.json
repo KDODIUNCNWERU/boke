@@ -1,0 +1,104 @@
+{
+    "id": 1421,
+    "title": "皮塔麵包兔【復活節食譜】",
+    "description": "",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160619_2/1421.mp4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1421_1763.jpg",
+    "clickCount": 761,
+    "shareCount": 0,
+    "maketime": "10分鐘",
+    "releaseDate": "2013-03-21 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "花生醬",
+            "cnt": "4",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "棉花糖",
+            "cnt": "4",
+            "unit": "粒",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "草莓果醬",
+            "cnt": "40",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "皮塔餅麵包",
+            "cnt": "2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "餅乾棒",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6116_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "皮塔餅切好",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6116_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "在兔子耳朵以及另一個完整的皮塔餅上塗上一層花生醬",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6118_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "在兔子耳朵以及另一個完整的皮塔餅上塗上一層花生醬",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6118_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "將百力滋餅乾棍切成兩段",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6119_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "按照圖示做成小兔子的臉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6119_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "按照圖示做成小兔子的臉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6120_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_6120_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=1421&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1421&languageId=2&mainland=2&ver=2&regionCode=156"
+}

@@ -1,0 +1,113 @@
+{
+    "id": 239,
+    "title": "蒜蓉茄子",
+    "description": "蒜蓉茄子是一個簡單的中式素菜。 你只需要一些新鮮的茄子和大蒜。如果你喜歡吃辣的話，可以加點小紅椒。\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_239_289.JPG",
+    "clickCount": 1731,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2012-02-10 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "水",
+            "cnt": "200",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鹽 ",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白胡椒粉",
+            "cnt": "5",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "豉油",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "粟粉",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅辣椒",
+            "cnt": "4",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜頭",
+            "cnt": "6",
+            "unit": "瓣",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "大茄子",
+            "cnt": "2",
+            "unit": "條",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "茄子",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_708_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "大蒜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_708_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "切茄子",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_710_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "切大蒜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_710_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "炒茄子",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_711_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "蒜蓉茄子",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_711_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=239&languageId=2&mainland=2&ver=2&regionCode=156"
+}

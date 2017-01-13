@@ -1,0 +1,213 @@
+{
+    "id": 247,
+    "title": "中式檸檬雞",
+    "description": "這是美式版的中菜檸檬雞。美式版的檸檬雞味道較爲濃，醬汁的酸甜配飯最佳。這道檸檬雞是小孩子的受歡迎菜式。\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_247_305.JPG",
+    "clickCount": 2566,
+    "shareCount": 0,
+    "maketime": "1小時",
+    "releaseDate": "2012-02-11 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "鹽 ",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "胡椒粉",
+            "cnt": "4",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞蛋",
+            "cnt": "",
+            "unit": "隻",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紹興酒",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "豉油",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "檸檬",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "砂糖",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "油",
+            "cnt": "2",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "清雞湯",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鷹粟粉",
+            "cnt": "",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞脾",
+            "cnt": "2",
+            "unit": "塊",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "黃色素",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "成分",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_767_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "檸檬",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_767_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "雞大腿",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_769_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "煎鍋",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_769_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "去皮",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_772_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "將切成塊",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_772_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "醃雞",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_773_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "準備檸檬醬",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_773_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "組合成分",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_774_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "加糖",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_774_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "檸檬醬",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_775_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 12,
+            "content": "準備炸雞",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_775_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 13,
+            "content": "雞炸麵糊",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_776_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 14,
+            "content": "準備好煮菜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_776_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 15,
+            "content": "炸雞",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_777_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 16,
+            "content": "直到金黃色",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_777_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 17,
+            "content": "慢火煮檸檬醬",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_778_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 18,
+            "content": "檸檬雞",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_778_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=247&languageId=2&mainland=2&ver=2&regionCode=156"
+}

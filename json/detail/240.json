@@ -1,0 +1,111 @@
+{
+    "id": 240,
+    "title": "自家制炒飯",
+    "description": "自家制的炒飯比較好吃因爲可以加多些雞蛋而且用少油。味道比較好之餘更健康。平常炒飯的主要食材是蝦或是肉。這次我們用了叉燒。\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_240_291.JPG",
+    "clickCount": 2374,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2012-02-11 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "鹽 ",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞蛋",
+            "cnt": "1",
+            "unit": "隻",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "橄欖油",
+            "cnt": "20",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蔥",
+            "cnt": "6",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "叉燒",
+            "cnt": "20",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "冷米飯",
+            "cnt": "1",
+            "unit": "碗",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "蔥",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_714_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "叉燒",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_714_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "用大火炒飯",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_717_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "添加其他食材",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_717_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "最後添加蛋",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_718_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "拌勻",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_718_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "簡單炒飯",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_719_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "簡單炒飯",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_719_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=240&languageId=2&mainland=2&ver=2&regionCode=156"
+}

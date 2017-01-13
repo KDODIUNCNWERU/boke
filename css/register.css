@@ -1,0 +1,194 @@
+@charset "UTF-8";
+
+@import url(../src/css/flexible.css);
+
+@import url(../src/font/iconfont.css);
+
+@import url(../src/css/layer.css);
+
+ul,
+em,
+i,
+strong {
+  list-style: none;
+  font-style: normal;
+}
+
+body,
+html {
+  font-family: "微软雅黑";
+  -webkit-tap-highlight-color: transparent;
+  color: #593e2b;
+}
+
+header {
+  width: 100%;
+  height: 0.625rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 0.546875rem;
+}
+
+header .jump_login {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 0.234375rem;
+  margin-right: 2.453125rem;
+}
+
+header .jump_login .icon-zuo {
+  font-size: 0.625rem;
+  line-height: 0.625rem;
+}
+
+header .jump_login p {
+  font-size: 0.375rem;
+  line-height: 0.625rem;
+}
+
+header p {
+  font-size: 0.34375rem;
+  line-height: 0.625rem;
+}
+
+section {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-top: 1.046875rem;
+}
+
+section .phone {
+  width: 8.34375rem;
+  height: 1.125rem;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+[data-dpr="1"] section .phone {
+  border-bottom: 0.5px solid #d5d5d5;
+}
+
+[data-dpr="2"] section .phone {
+  border-bottom: 1px solid #d5d5d5;
+}
+
+[data-dpr="3"] section .phone {
+  border-bottom: 1.5px solid #d5d5d5;
+}
+
+section .phone span {
+  font-size: 0.625rem;
+  line-height: 1.125rem;
+}
+
+section .phone input {
+  width: 7.1875rem;
+  height: 0.9375rem;
+  border: 0;
+  font-size: 0.375rem;
+  margin-left: 0.125rem;
+  font-family: "微软雅黑";
+}
+
+section .psw {
+  width: 8.34375rem;
+  height: 1.125rem;
+}
+
+section .psw .login {
+  width: 100%;
+  height: 100%;
+  background: #ff5c31;
+  font-size: 0.40625rem;
+  color: #FFFFFF;
+  font-family: "微软雅黑";
+  margin-top: 0.53125rem;
+  border: 0;
+}
+
+section .else {
+  width: 8.34375rem;
+  height: 1.125rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+  margin-top: 0.53125rem;
+}
+
+section .else #gou {
+  display: block;
+  font-size: 0.46875rem;
+  color: #ff5c31;
+}
+
+section .else #gou2 {
+  width: 0.46875rem;
+  height: 0.46875rem;
+  display: none;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border-radius: 50%;
+}
+
+[data-dpr="1"] section .else #gou2 {
+  border: 0.5px solid #CCCCCC;
+}
+
+[data-dpr="2"] section .else #gou2 {
+  border: 1px solid #CCCCCC;
+}
+
+[data-dpr="3"] section .else #gou2 {
+  border: 1.5px solid #CCCCCC;
+}
+
+section .else em {
+  font-size: 0.3125rem;
+  margin-left: 0.15625rem;
+}
+
+section .else a {
+  font-size: 0.34375rem;
+  color: #ff5c31;
+  margin-left: 0.390625rem;
+}

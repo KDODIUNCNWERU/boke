@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>扫一扫</title>
+		<link rel="stylesheet" type="text/css" href="../src/css/mobile.css"/>
+		<style type="text/css">
+			html,
+			body {
+				background: #ccc;
+				height: 100%;
+			}
+			span,h1{
+				display: block;
+				padding: 0 30px;
+				line-height: 60px;
+				font-size: 40px;
+				color: #fff;
+				background: darkorange;
+				margin: 30px auto;
+				width: 180px;
+				text-align: center;
+				border-radius: 15px;
+			}
+			#bcid {
+				height: 360px;
+				width: 360px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="bcid"></div>
+		<h1>扫码链接</h1>
+		<span>返回</span>
+	</body>
+	<script src="../src/js/flexible.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		// 扩展API加载完毕后调用onPlusReady回调函数 
+		document.addEventListener("plusready", onPlusReady, false);
+		// 扩展API加载完毕，现在可以正常调用扩展API
+		function onPlusReady() {
+			startRecognize();
+		}
+		var scan = null;
+		var _url;
+
+		function onmarked(type, result) {
+			var text = '未知: ';
+			switch(type) {
+				case plus.barcode.QR:
+					text = 'QR: ';
+					break;
+				case plus.barcode.EAN13:
+					text = 'EAN13: ';
+					break;
+				case plus.barcode.EAN8:
+					text = 'EAN8: ';
+					break;
+			}
+			_url = result;
+			cancelScan();
+			location.href = _url;
+		}
+		function startRecognize() {
+			scan = new plus.barcode.Barcode('bcid');
+			scan.onmarked = onmarked;
+			startScan();
+			document.getElementsByTagName("span")[0].onclick=function(){
+				cancelScan();
+				history.back();
+			}
+		}
+
+		function cancelScan() {
+			scan.close();
+		}
+
+		function startScan() {
+			scan.start();
+		}
+	</script>
+</html>

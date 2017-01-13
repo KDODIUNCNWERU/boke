@@ -1,0 +1,156 @@
+{
+    "id": 22651,
+    "title": "自家製鳳梨酥",
+    "description": "",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160619_2/22651.mp4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_22651_21521.jpg",
+    "clickCount": 2486,
+    "shareCount": 0,
+    "maketime": "1小時",
+    "releaseDate": "2014-04-29 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "砂糖",
+            "cnt": "60",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "菠蘿",
+            "cnt": "10",
+            "unit": "片",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "麥芽糖",
+            "cnt": "5",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "中筋麵粉",
+            "cnt": "90",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "冬瓜",
+            "cnt": "1000",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "吉士粉",
+            "cnt": "35",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蛋",
+            "cnt": "1",
+            "unit": "隻",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "糖霜",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鹽味牛油",
+            "cnt": "75",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "冬瓜去皮及把菠蘿切小粒",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_47271_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "把冬瓜打成蓉，用湯袋隔去冬瓜多餘水分",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_47271_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "冬瓜蓉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_47281_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "把菠蘿打成蓉，備用",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_47281_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "以中火將鑊加熱，煮菠蘿蓉、糖、冬瓜及麥芽糖。轉至慢火煮至近沸騰。",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_47291_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "將餡料煮多10-15分鐘至金黃及黏身。冷卻備用",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_47291_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "預熱焗爐175度。 酥皮製作。混合所有材料成麵團",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_47301_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "如麵團太濕及黏，可雪藏15-30分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_47301_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "把麵團分開並搓成小球，再壓平",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_47311_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "把1-2茶匙餡料放在酥皮上. 將餡料用酥皮包密，再搓成球狀",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_47311_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "把鳳梨酥放入曲奇模裡，並壓實",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_47321_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 12,
+            "content": "重複步驟(7)-(10)，將鳳梨酥放在烘焙紙上。 \t鳳梨酥連曲奇模以175度焗10-15分鐘，直至金黃",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_47321_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=22651&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=22651&languageId=2&mainland=2&ver=2&regionCode=156"
+}

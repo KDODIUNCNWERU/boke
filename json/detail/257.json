@@ -1,0 +1,156 @@
+{
+    "id": 257,
+    "title": "南瓜燜排骨",
+    "description": "我們常常喜歡在秋天吃南瓜。大多數朋友都愛吃南瓜甜點。但很少有人知道，南瓜​​其實適合多款豐富可口的菜餚。這南瓜燜排骨是一道很容易又美味的家常菜。如果你想在今年秋冬季嘗試新的菜式，就不妨嘗試我們的南瓜燜排骨吧。\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_257_325.JPG",
+    "clickCount": 1789,
+    "shareCount": 0,
+    "maketime": "",
+    "releaseDate": "2012-02-12 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "水",
+            "cnt": "400",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鹽 ",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "胡椒粉",
+            "cnt": "4",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紹興酒",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "粟粉",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "豉油",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "南瓜",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜頭",
+            "cnt": "6",
+            "unit": "瓣",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "排骨",
+            "cnt": "260",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "南瓜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_858_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "排骨",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_858_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "醃豬肉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_861_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "準備南瓜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_861_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "成分",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_862_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "煎豬肉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_862_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "煎好的豬肉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_863_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "添加南瓜，水",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_863_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "用慢火煮",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_864_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "南瓜、 排骨",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_864_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "添加獻汁便完成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_865_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 12,
+            "content": "南瓜燜排骨",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_865_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=257&languageId=2&mainland=2&ver=2&regionCode=156"
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1356,
+    "title": "薏仁牛奶粥",
+    "description": "\t薏仁具有排水和美白的功效，牛奶能滋潤肌膚，一舉兩得。\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_1356_1687.jpg",
+    "clickCount": 2230,
+    "shareCount": 0,
+    "maketime": "10分鐘",
+    "releaseDate": "2013-02-27 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "鮮奶",
+            "cnt": "250",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "薏仁粉",
+            "cnt": "10",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "材料",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5660_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "鮮牛奶煮沸",
+            "imageUrl": null,
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "加入薏仁粉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5660_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "再煮5分鐘即可",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5661_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "再煮5分鐘即可",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_5661_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=1356&languageId=2&mainland=2&ver=2&regionCode=156"
+}

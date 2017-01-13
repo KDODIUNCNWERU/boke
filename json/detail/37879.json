@@ -1,0 +1,101 @@
+{
+    "id": 37879,
+    "title": "莎莎醬凍豆腐",
+    "description": "莎莎醬(Salsa sauce)是墨西哥菜餚裡經常出現的醬料，以番茄為主要材料，味道清新開胃，簡單配以豆腐就可以成為清新開胃的涼拌菜。\r\n",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160425/91475028-1147-4a4f-b3b3-56f6184f440f",
+    "indexUrl": "http://pic.daydaycook.com/production/videos/20160425/a2eca29b-d16f-4305-bc24-ff35b8712306",
+    "imageUrl": "http://pic.daydaycook.com/production/images/20161010/f7faabd0-b053-428c-8a06-3d6c6c8fa1ae",
+    "clickCount": 25148,
+    "shareCount": 0,
+    "maketime": "10分鐘",
+    "releaseDate": "2016-04-25 00:00:00.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "鹽 ",
+            "cnt": "3",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "黑胡椒",
+            "cnt": "3",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "橄欖油",
+            "cnt": "15",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "芫茜",
+            "cnt": "1",
+            "unit": "條",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "番茄",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "青檸汁",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "軟豆腐",
+            "cnt": "1",
+            "unit": "塊",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紫洋蔥",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "豆腐瀝乾水後切件。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160425/37da2f1e-29e4-4b55-85fa-eab9acb962d9",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "紫洋蔥及番茄切成幼粒。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160425/0de3d49b-ec58-4f05-9631-d686ccc9c981",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "準備一個碗，加入紫洋蔥、番茄、2/3芫茜碎、青檸汁、橄欖油、鹽及黑胡椒成莎莎醬。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160425/b6994396-b2ce-47e1-89b9-ed0631d20c75",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "將莎莎醬放在豆腐上，即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160425/73ee9ebe-67bf-46b6-85f8-41341515e8af",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=37879&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=37879&languageId=2&mainland=2&ver=2&regionCode=156"
+}

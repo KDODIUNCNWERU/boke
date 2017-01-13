@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>登录</title>
+		<link rel="stylesheet" type="text/css" href="../css/login.css"/>
+	</head>
+	<body>
+		<header>
+			<div class="iconfont icon-cha"></div>
+			<div class="logo"></div>			
+		</header>
+		<section>
+			<layer class="phone">
+				<span class="iconfont icon-wo"></span>
+				<input type="text" placeholder="输入用户名" class="username"/>
+			</layer>
+			<layer class="phone">
+				<span class="iconfont icon-wenhao"></span>
+				<input type="password" placeholder="输入密码" class="psw1" />
+			</layer>
+			<div class="psw" id="log-btn">
+				<!--<input type="button" value="登录" class="login" />-->
+				登录
+			</div>
+			<layer class="else">
+				<a href="register.html" >注册</a>
+				<a href="">忘记密码</a>
+			</layer>
+		</section>
+		<footer>
+			<p>快速登录日日煮，开启极致美味之旅。</p>
+			<ul>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
+		</footer>
+	</body>
+	<script src="../src/js/sea.js"></script>
+
+	<script>
+    seajs.use(["../js/login"],function (app) {
+        app.init();
+    })
+    </script>
+</html>

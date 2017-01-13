@@ -1,0 +1,158 @@
+{
+    "id": 16151,
+    "title": "爽甜烤蔬菜",
+    "description": "",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160619_2/16151.mp4",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_16151_12951.JPG",
+    "clickCount": 539,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2014-01-06 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "鹽 ",
+            "cnt": "2",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "洋蔥",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "橄欖油",
+            "cnt": "20",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蒜",
+            "cnt": "2",
+            "unit": "瓣",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "番茄",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "茄子",
+            "cnt": "1",
+            "unit": "條",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "松子",
+            "cnt": "50",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "九層塔葉",
+            "cnt": "20",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "小青瓜",
+            "cnt": "1",
+            "unit": "條",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅、綠、黃燈籠椒各",
+            "cnt": "1",
+            "unit": "只",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "幹的千層面皮",
+            "cnt": "3",
+            "unit": "片",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "將洋蔥切片",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_27571_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "將番茄切片",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_27571_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "將茄子切片",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_27581_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "將青瓜切片",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_27581_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "準備醬汁，將蒜、松子、番茄碎和九層塔放入攪拌機，加入橄欖油",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_27591_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "打至幼滑",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_27591_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "在焗盤裡擺好燈籠椒、洋蔥、茄子、青瓜和番茄。撒上橄欖油和鹽",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_27601_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "放入預熱至220度的焗爐焗10分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_27601_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "在一片千層麵上放一湯匙醬汁，和烤蔬菜一起上桌",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_27611_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "最宜於室溫下作為前菜食用",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_27611_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=16151&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=16151&languageId=2&mainland=2&ver=2&regionCode=156"
+}

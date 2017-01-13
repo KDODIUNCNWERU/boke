@@ -1,0 +1,111 @@
+{
+    "id": 15571,
+    "title": "水果甜酒凍",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_15571_12191.JPG",
+    "clickCount": 2330,
+    "shareCount": 0,
+    "maketime": "1小時",
+    "releaseDate": "2013-12-24 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "水",
+            "cnt": "180",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "砂糖",
+            "cnt": "80",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白葡萄酒",
+            "cnt": "200",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "魚膠粉",
+            "cnt": "2",
+            "unit": "茶匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雜果（我們用的是香桃、草莓和藍莓）",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "檸檬（擠汁）",
+            "cnt": "1",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "2.\t在鍋內倒入水、魚膠粉和糖，中火加熱",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_26111_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "煮至糖完全融化，離火",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_26111_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "添加白酒",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_26121_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "添加檸檬汁",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_26121_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "杯中排列水果",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_26131_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "倒入甜酒",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_26131_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "放置雪櫃至成型",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_26141_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "即成",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_26141_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=15571&languageId=2&mainland=2&ver=2&regionCode=156"
+}

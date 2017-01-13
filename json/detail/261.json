@@ -1,0 +1,149 @@
+{
+    "id": 261,
+    "title": "番茄煮紅衫魚",
+    "description": "<span id=\"result_box\" lang=\"zh-TW\">如果你的小朋友不愛吃魚，你一定要試試這個食譜。我們用的是紅衫魚。紅衫魚是白魚。他們的肉質鮮嫩多汁，而且和濃郁的番茄醬很配。如果想為家人帶來更多的驚喜，你可以嘗試把魚肉起骨，讓小孩子更容易食。\r\n",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_261_334.JPG",
+    "clickCount": 606,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2012-02-13 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "水",
+            "cnt": "100",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "鹽 ",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "黑胡椒",
+            "cnt": "4",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "雞湯",
+            "cnt": "150",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "粟粉",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "番茄",
+            "cnt": "2",
+            "unit": "個",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "紅衫鰭",
+            "cnt": "2",
+            "unit": "條",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "薑",
+            "cnt": "",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "魚",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_893_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "新鮮番茄",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_893_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "成分",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_894_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "醃魚 （油、 鹽、 胡椒粉）",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_894_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "魚煎至兩面金黃色",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_897_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "放在盤子中",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_897_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "炒香大蒜和番茄",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_898_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "添加雞湯",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_898_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "再用文火煮 3 分鐘",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_899_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "添加開好的生粉水",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_899_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "番茄醬倒在煎好的魚身上",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_900_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 12,
+            "content": "番茄煮紅衫魚",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_900_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=261&languageId=2&mainland=2&ver=2&regionCode=156"
+}

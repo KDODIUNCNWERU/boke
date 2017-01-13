@@ -1,0 +1,146 @@
+{
+    "id": 19951,
+    "title": "五柳醬酸甜魚柳",
+    "description": "",
+    "detailsUrl": "",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_19951_17591.JPG",
+    "clickCount": 893,
+    "shareCount": 0,
+    "maketime": "30分鐘",
+    "releaseDate": "2014-03-13 00:00:00.0",
+    "ingredientImageUrl": null,
+    "ingredientImageUrl2": null,
+    "ingredientImageUrl3": null,
+    "ingredients": [
+        {
+            "name": "鹽 ",
+            "cnt": "5",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "砂糖",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "蔥",
+            "cnt": "10",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "麻油",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "茄汁",
+            "cnt": "2",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "白醋",
+            "cnt": "5",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "粟粉",
+            "cnt": "40",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "花生油",
+            "cnt": "",
+            "unit": "適量",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "酸梅醬",
+            "cnt": "10",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "黃花魚",
+            "cnt": "600",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "五柳",
+            "cnt": "50",
+            "unit": "g",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "把蔥切段",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_39121_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "沖洗乾淨黃花魚後，抹乾魚身，用刀割魚身數次",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_39121_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "混合所有醬汁材料，備用",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_39131_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "將魚撲上粟粉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_39131_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "在鑊中加入花生油，以中高火加熱，炸魚至每邊金黃",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_39141_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "把魚放置於廚房紙巾上，吸去多餘油",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_39141_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "在鑊中加入1湯匙油，以中火燒熱，並炒蔥及加入醬汁",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_39151_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "加入100毫升清水及粟粉水（用2湯匙水混合1湯匙粟粉），並將醬汁煮至濃稠",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_39151_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=19951&languageId=2&mainland=2&ver=2&regionCode=156"
+}

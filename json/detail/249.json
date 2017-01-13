@@ -1,0 +1,92 @@
+{
+    "id": 249,
+    "title": "港式咖哩牛腩",
+    "description": "\r\n\t相信很多香港人都喜歡吃咖哩，其中當然以咖哩牛腩配以白飯或麵最受歡迎。雖然要煮出一鍋香濃軟熟的咖哩牛腩通常都得花上比較長的時間，但是當咖哩煮好的時候，那種香味和口感實在令人食指大動。今天這道咖哩牛腩的食譜雖然並不是以椰汁作佐料，但是椰汁可以減低咖哩的辣味，迎合不吃辣的朋友。\r\n",
+    "detailsUrl": "",
+    "indexUrl": "",
+    "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/1000x750/recipe_249_309.JPG",
+    "clickCount": 1091,
+    "shareCount": 0,
+    "maketime": "",
+    "releaseDate": "2012-02-11 00:00:00.0",
+    "ingredientImageUrl": "",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "新鮮牛腩",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_789_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "白蘿蔔",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_789_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "蔥",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_790_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "姜",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_790_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 5,
+            "content": "將牛腩出水",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_793_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 6,
+            "content": "將牛筋出水",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_793_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 7,
+            "content": "準備大煲高湯",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_795_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 8,
+            "content": "添加牛腩和牛筋",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_795_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 9,
+            "content": "煮至少 2 小時",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_796_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 10,
+            "content": "添加咖喱",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_796_item_1.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 11,
+            "content": "咖喱牛肉",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_797_item_0.jpg",
+            "languageId": null
+        },
+        {
+            "stepNo": 12,
+            "content": "切成塊的牛腩",
+            "imageUrl": "http://pic.daydaycook.com/production/ImageMigration/384x288/recipe_content_797_item_1.jpg",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=249&languageId=2&mainland=2&ver=2&regionCode=156"
+}

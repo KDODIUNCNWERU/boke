@@ -1,0 +1,101 @@
+{
+    "id": 38066,
+    "title": "韓式吞拿魚香辣醬",
+    "description": "只需要簡單的材料，就算新手可以輕鬆做出惹味的韓式香辣醬！韓國的泡菜酸香辛辣又開胃，加入罐頭吞拿魚增加口感，今個夏天不能錯過！",
+    "detailsUrl": "http://pic.daydaycook.com/production/videos/20160624/42a5b6d1-142e-42d9-a67b-c9b7248f7f7b",
+    "indexUrl": null,
+    "imageUrl": "http://pic.daydaycook.com/production/images/20160616/223bc4ae-30da-46be-845c-24f5b73d9532",
+    "clickCount": 7772,
+    "shareCount": 0,
+    "maketime": "20分鐘",
+    "releaseDate": "2016-06-23 00:00:00.0",
+    "ingredientImageUrl": "http://pic.daydaycook.com/production/images/20160616/be2c4f66-d96b-479f-9af9-d3f74bac2d6c",
+    "ingredientImageUrl2": "",
+    "ingredientImageUrl3": "",
+    "ingredients": [
+        {
+            "name": "麻油",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "泡菜",
+            "cnt": "30",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "韓國辣椒醬",
+            "cnt": "30",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "罐頭吞拿魚",
+            "cnt": "100",
+            "unit": "克",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "水",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "砂糖",
+            "cnt": "2",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "米醋",
+            "cnt": "50",
+            "unit": "毫升",
+            "type": "0",
+            "typeName": null
+        },
+        {
+            "name": "熟芝麻",
+            "cnt": "1",
+            "unit": "湯匙",
+            "type": "0",
+            "typeName": null
+        }
+    ],
+    "steps": [
+        {
+            "stepNo": 1,
+            "content": "將吞拿魚瀝乾拆散；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160616/ba5f5bd0-067a-464e-bc3e-6a23e4775a55",
+            "languageId": null
+        },
+        {
+            "stepNo": 2,
+            "content": "將泡菜隨意切碎；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160616/3518ab2d-1a67-46b1-9f5d-582941f823ac",
+            "languageId": null
+        },
+        {
+            "stepNo": 3,
+            "content": "準備一個碗，加入韓國辣椒醬、米醋、水、麻油、熟芝麻及砂糖拌勻；",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160616/6c4c6562-b812-4681-8a1f-d042ee177f0a",
+            "languageId": null
+        },
+        {
+            "stepNo": 4,
+            "content": "加入吞拿魚及泡菜，拌勻即成。",
+            "imageUrl": "http://pic.daydaycook.com/production/images/20160616/7f8c308e-b633-42c1-bcc0-b1ef1f3de5fa",
+            "languageId": null
+        }
+    ],
+    "multipleRateUrl": "http://www.daydaycook.com.cn:80/daydaycook/server/recipe/detailVideo.do?id=38066&languageId=2&mainland=2&site=bve",
+    "shareUrl": "http://www.daydaycook.com.cn:80/daydaycook/h5/recipe/recipedetail.do?id=38066&languageId=2&mainland=2&ver=2&regionCode=156"
+}
